@@ -1,0 +1,3791 @@
+{
+  "data": [
+    {
+      "id": "5714.0",
+      "start_date": "2019-09-07 13:48:22",
+      "end_date": "2019-09-07 13:48:22",
+      "text": "t.\u7463\u4e8b",
+      "details": "Move to San Diego"
+    },
+    {
+      "id": "5898.0",
+      "start_date": "2019-09-08 06:59:30",
+      "end_date": "2019-09-08 06:59:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "Fly to SFO"
+    },
+    {
+      "id": "5315.0",
+      "start_date": "2019-09-14 12:17:30",
+      "end_date": "2019-09-14 12:17:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "All incoming students are required to complete UC Immunization Requirements by September 15, 2019."
+    },
+    {
+      "id": "5781.0",
+      "start_date": "2019-09-15 09:59:30",
+      "end_date": "2019-09-15 09:59:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "Public Storage Unsubscribe"
+    },
+    {
+      "id": "863.0",
+      "start_date": "2019-09-16 00:00:00",
+      "end_date": "2019-09-16 00:00:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "If you're an Upperclassmen, Apply TODAY to be a JUMP Peer Mentor andbe Mentored too!"
+    },
+    {
+      "id": "5717.0",
+      "start_date": "2019-09-19 04:36:07",
+      "end_date": "2019-09-19 04:36:07",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": ""
+    },
+    {
+      "id": "5253.0",
+      "start_date": "2019-09-19 07:52:30",
+      "end_date": "2019-09-19 07:52:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "Waiver for UC San Diego Health Insurance - Due September 20"
+    },
+    {
+      "id": "5196.0",
+      "start_date": "2019-09-25 00:00:00",
+      "end_date": "2019-09-25 07:26:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5242.0",
+      "start_date": "2019-09-26 00:00:00",
+      "end_date": "2019-09-26 07:26:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5753.0",
+      "start_date": "2019-09-26 14:00:00",
+      "end_date": "2019-09-26 14:29:00",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "5259.0",
+      "start_date": "2019-09-27 00:00:00",
+      "end_date": "2019-09-27 07:26:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5754.0",
+      "start_date": "2019-09-27 14:00:00",
+      "end_date": "2019-09-27 14:29:00",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "5275.0",
+      "start_date": "2019-09-28 00:00:00",
+      "end_date": "2019-09-28 07:26:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5755.0",
+      "start_date": "2019-09-28 14:00:00",
+      "end_date": "2019-09-28 14:29:00",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "6058.0",
+      "start_date": "2019-09-28 19:14:30",
+      "end_date": "2019-09-28 19:14:30",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": "[\u4ed8\u623f\u79df]"
+    },
+    {
+      "id": "5290.0",
+      "start_date": "2019-09-28 23:59:30",
+      "end_date": "2019-09-29 07:24:30",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5761.0",
+      "start_date": "2019-09-29 13:59:30",
+      "end_date": "2019-09-29 14:28:30",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "6017.0",
+      "start_date": "2019-09-29 14:28:30",
+      "end_date": "2019-09-29 14:55:30",
+      "text": "t.Billing Cycle",
+      "details": ""
+    },
+    {
+      "id": "5292.0",
+      "start_date": "2019-09-29 23:59:30",
+      "end_date": "2019-09-30 07:24:30",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6018.0",
+      "start_date": "2019-09-30 07:24:30",
+      "end_date": "2019-09-30 07:24:30",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5718.0",
+      "start_date": "2019-09-30 09:13:30",
+      "end_date": "2019-09-30 09:13:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "\u4ed8\u623f\u79df"
+    },
+    {
+      "id": "5944.0",
+      "start_date": "2019-09-30 10:59:30",
+      "end_date": "2019-09-30 11:47:30",
+      "text": "ANTH 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "6093.0",
+      "start_date": "2019-09-30 12:59:30",
+      "end_date": "2019-09-30 13:47:30",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5762.0",
+      "start_date": "2019-09-30 13:47:30",
+      "end_date": "2019-09-30 14:15:30",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "5985.0",
+      "start_date": "2019-09-30 15:59:30",
+      "end_date": "2019-09-30 16:47:30",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6094.0",
+      "start_date": "2019-09-30 16:59:30",
+      "end_date": "2019-09-30 18:17:30",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": ""
+    },
+    {
+      "id": "5732.0",
+      "start_date": "2019-09-30 18:17:30",
+      "end_date": "2019-09-30 18:17:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "Verizon"
+    },
+    {
+      "id": "6019.0",
+      "start_date": "2019-09-30 18:17:30",
+      "end_date": "2019-09-30 18:17:30",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5308.0",
+      "start_date": "2019-09-30 23:59:30",
+      "end_date": "2019-10-01 07:20:30",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6039.0",
+      "start_date": "2019-10-01 12:11:30",
+      "end_date": "2019-10-01 12:29:30",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5917.0",
+      "start_date": "2019-10-01 12:29:30",
+      "end_date": "2019-10-01 13:41:30",
+      "text": "ANTH 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5764.0",
+      "start_date": "2019-10-01 13:41:30",
+      "end_date": "2019-10-01 14:02:30",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "5954.0",
+      "start_date": "2019-10-01 15:29:30",
+      "end_date": "2019-10-01 16:41:30",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6043.0",
+      "start_date": "2019-10-01 18:14:30",
+      "end_date": "2019-10-01 18:54:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "Upload Assignment: Warren Writing Syllabus and Policies Quiz"
+    },
+    {
+      "id": "5975.0",
+      "start_date": "2019-10-01 19:29:30",
+      "end_date": "2019-10-01 20:14:30",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nHW2 overview"
+    },
+    {
+      "id": "6064.0",
+      "start_date": "2019-10-01 20:14:30",
+      "end_date": "2019-10-01 20:14:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "return comma ai"
+    },
+    {
+      "id": "6026.0",
+      "start_date": "2019-10-01 20:14:30",
+      "end_date": "2019-10-01 20:32:30",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6023.0",
+      "start_date": "2019-10-01 20:32:30",
+      "end_date": "2019-10-01 21:26:30",
+      "text": "t.CIS Assignment",
+      "details": "[HW1 due]"
+    },
+    {
+      "id": "6024.0",
+      "start_date": "2019-10-01 21:26:30",
+      "end_date": "2019-10-01 22:20:30",
+      "text": "t.CIS Assignment",
+      "details": "[Hwk 0: background, invariants ]"
+    },
+    {
+      "id": "6005.0",
+      "start_date": "2019-10-01 22:54:30",
+      "end_date": "2019-10-01 22:54:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW1 due"
+    },
+    {
+      "id": "6268.0",
+      "start_date": "2019-10-01 22:55:00",
+      "end_date": "2019-10-02 01:25:00",
+      "text": "t.Formal Paper",
+      "details": "[Reading: Syllabus, Course Poli]"
+    },
+    {
+      "id": "6007.0",
+      "start_date": "2019-10-01 22:59:30",
+      "end_date": "2019-10-01 22:59:30",
+      "text": "Deadline",
+      "details": "Hwk 0: background, invariants due"
+    },
+    {
+      "id": "6042.0",
+      "start_date": "2019-10-01 22:59:30",
+      "end_date": "2019-10-01 22:59:30",
+      "text": "Deadline",
+      "details": "Upload Assignment: Warren Writing Syllabus and Policies Quiz"
+    },
+    {
+      "id": "5332.0",
+      "start_date": "2019-10-02 01:59:30",
+      "end_date": "2019-10-02 09:20:30",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6263.0",
+      "start_date": "2019-10-02 11:23:30",
+      "end_date": "2019-10-02 12:03:30",
+      "text": "t.EWRT Reading Assignment",
+      "details": "[Reading: Syllabus, Course Poli]"
+    },
+    {
+      "id": "6041.0",
+      "start_date": "2019-10-02 12:03:30",
+      "end_date": "2019-10-02 12:22:30",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6095.0",
+      "start_date": "2019-10-02 12:59:30",
+      "end_date": "2019-10-02 13:44:30",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5986.0",
+      "start_date": "2019-10-02 15:59:30",
+      "end_date": "2019-10-02 16:44:30",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6243.0",
+      "start_date": "2019-10-02 16:54:30",
+      "end_date": "2019-10-02 16:54:30",
+      "text": "Deadline",
+      "details": "Reading: Syllabus, Course Policies Smith, Dewey Writing: 1A Do: Syllabus and Policies Quiz"
+    },
+    {
+      "id": "6044.0",
+      "start_date": "2019-10-02 16:59:30",
+      "end_date": "2019-10-02 18:19:30",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Discuss readings, syllabus & policies, and 1A"
+    },
+    {
+      "id": "6016.0",
+      "start_date": "2019-10-02 18:29:30",
+      "end_date": "2019-10-02 19:54:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "CSES Fall GBM"
+    },
+    {
+      "id": "6097.0",
+      "start_date": "2019-10-02 19:59:30",
+      "end_date": "2019-10-02 20:45:30",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion\nQ&A"
+    },
+    {
+      "id": "6029.0",
+      "start_date": "2019-10-02 20:45:30",
+      "end_date": "2019-10-02 21:26:30",
+      "text": "t.GE Assignment",
+      "details": "[Implicit Bias Assignment 1\nRea]"
+    },
+    {
+      "id": "5336.0",
+      "start_date": "2019-10-02 23:59:30",
+      "end_date": "2019-10-03 07:22:30",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6034.0",
+      "start_date": "2019-10-03 08:37:30",
+      "end_date": "2019-10-03 08:37:30",
+      "text": "\u6d17\u8863",
+      "details": ""
+    },
+    {
+      "id": "6030.0",
+      "start_date": "2019-10-03 11:02:30",
+      "end_date": "2019-10-03 11:20:30",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6062.0",
+      "start_date": "2019-10-03 12:24:30",
+      "end_date": "2019-10-03 12:24:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "Implicit Bias Assignment 1\nReading"
+    },
+    {
+      "id": "5167.0",
+      "start_date": "2019-10-03 12:29:30",
+      "end_date": "2019-10-03 13:45:30",
+      "text": "ANTH 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5955.0",
+      "start_date": "2019-10-03 15:29:30",
+      "end_date": "2019-10-03 16:45:30",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6098.0",
+      "start_date": "2019-10-03 16:59:30",
+      "end_date": "2019-10-03 18:44:30",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6048.0",
+      "start_date": "2019-10-03 19:29:30",
+      "end_date": "2019-10-03 20:16:30",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "6028.0",
+      "start_date": "2019-10-03 20:16:30",
+      "end_date": "2019-10-03 20:34:30",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5368.0",
+      "start_date": "2019-10-03 23:59:30",
+      "end_date": "2019-10-04 07:23:30",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6027.0",
+      "start_date": "2019-10-04 12:14:30",
+      "end_date": "2019-10-04 12:32:30",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6099.0",
+      "start_date": "2019-10-04 12:59:30",
+      "end_date": "2019-10-04 13:46:30",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6035.0",
+      "start_date": "2019-10-04 17:25:30",
+      "end_date": "2019-10-04 17:43:30",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5411.0",
+      "start_date": "2019-10-04 23:59:30",
+      "end_date": "2019-10-05 07:22:30",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6037.0",
+      "start_date": "2019-10-05 07:30:30",
+      "end_date": "2019-10-05 07:48:30",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6276.0",
+      "start_date": "2019-10-05 21:24:16",
+      "end_date": "2019-10-05 22:03:16",
+      "text": "t.BackOnTrack",
+      "details": ""
+    },
+    {
+      "id": "5428.0",
+      "start_date": "2019-10-05 23:58:16",
+      "end_date": "2019-10-06 07:19:16",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6275.0",
+      "start_date": "2019-10-06 09:07:16",
+      "end_date": "2019-10-06 09:07:16",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": ""
+    },
+    {
+      "id": "6173.0",
+      "start_date": "2019-10-06 09:07:16",
+      "end_date": "2019-10-06 09:52:16",
+      "text": "t.EWRT Reading Assignment",
+      "details": "[Reading: Jones, Pew Research, ]"
+    },
+    {
+      "id": "6174.0",
+      "start_date": "2019-10-06 09:52:16",
+      "end_date": "2019-10-06 09:52:16",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "6175.0",
+      "start_date": "2019-10-06 09:52:16",
+      "end_date": "2019-10-06 09:52:16",
+      "text": "t.CIS Assignment",
+      "details": "[Homework 1]"
+    },
+    {
+      "id": "6172.0",
+      "start_date": "2019-10-06 09:52:16",
+      "end_date": "2019-10-06 12:52:16",
+      "text": "t.Formal Paper",
+      "details": "[Reading: Jones, Pew Research, ]"
+    },
+    {
+      "id": "6176.0",
+      "start_date": "2019-10-06 12:52:16",
+      "end_date": "2019-10-06 12:52:16",
+      "text": "t.CIS Assignment",
+      "details": "[Hwk 1: (sum and product rule) ]"
+    },
+    {
+      "id": "6183.0",
+      "start_date": "2019-10-06 12:52:16",
+      "end_date": "2019-10-06 13:37:16",
+      "text": "t.EWRT Reading Assignment",
+      "details": "[Reading: Conard, Watch: Wallac]"
+    },
+    {
+      "id": "6177.0",
+      "start_date": "2019-10-06 13:37:16",
+      "end_date": "2019-10-06 13:50:16",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6184.0",
+      "start_date": "2019-10-06 13:50:16",
+      "end_date": "2019-10-06 14:21:16",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6178.0",
+      "start_date": "2019-10-06 14:21:16",
+      "end_date": "2019-10-06 14:21:16",
+      "text": "\u6d17\u8863",
+      "details": ""
+    },
+    {
+      "id": "6179.0",
+      "start_date": "2019-10-06 14:21:16",
+      "end_date": "2019-10-06 14:51:16",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6185.0",
+      "start_date": "2019-10-06 14:51:16",
+      "end_date": "2019-10-06 15:03:16",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6186.0",
+      "start_date": "2019-10-06 15:03:16",
+      "end_date": "2019-10-06 15:15:16",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6004.0",
+      "start_date": "2019-10-06 15:15:16",
+      "end_date": "2019-10-06 15:15:16",
+      "text": "t.\u7463\u4e8b",
+      "details": "\u65fa\u5b8f\u734e\u5b78\u91d1\u7533\u8acb\u622a\u6b62 10/1"
+    },
+    {
+      "id": "6061.0",
+      "start_date": "2019-10-06 15:15:16",
+      "end_date": "2019-10-06 15:15:16",
+      "text": "t.\u7463\u4e8b",
+      "details": "Change License Plate"
+    },
+    {
+      "id": "6100.0",
+      "start_date": "2019-10-07 12:58:16",
+      "end_date": "2019-10-07 13:43:16",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5987.0",
+      "start_date": "2019-10-07 15:58:16",
+      "end_date": "2019-10-07 16:43:16",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6244.0",
+      "start_date": "2019-10-07 16:53:16",
+      "end_date": "2019-10-07 16:53:16",
+      "text": "Deadline",
+      "details": "Reading: Jones, Pew Research, Writing: 1B"
+    },
+    {
+      "id": "6045.0",
+      "start_date": "2019-10-07 16:58:16",
+      "end_date": "2019-10-07 18:12:16",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Discuss reading, and 1B"
+    },
+    {
+      "id": "6181.0",
+      "start_date": "2019-10-07 18:12:16",
+      "end_date": "2019-10-07 19:08:16",
+      "text": "t.CIS Assignment",
+      "details": "[Homework 2]"
+    },
+    {
+      "id": "6008.0",
+      "start_date": "2019-10-07 22:59:16",
+      "end_date": "2019-10-07 22:59:16",
+      "text": "Deadline",
+      "details": "Hwk 1: (sum and product rule) due"
+    },
+    {
+      "id": "6278.0",
+      "start_date": "2019-10-07 23:58:16",
+      "end_date": "2019-10-07 23:58:16",
+      "text": "Deadline",
+      "details": "Homework 1"
+    },
+    {
+      "id": "5494.0",
+      "start_date": "2019-10-07 23:59:16",
+      "end_date": "2019-10-08 07:11:16",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5854.0",
+      "start_date": "2019-10-08 15:08:45",
+      "end_date": "2019-10-08 15:28:45",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5957.0",
+      "start_date": "2019-10-08 15:28:45",
+      "end_date": "2019-10-08 16:40:45",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5976.0",
+      "start_date": "2019-10-08 19:28:45",
+      "end_date": "2019-10-08 20:13:45",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQuiz review"
+    },
+    {
+      "id": "5857.0",
+      "start_date": "2019-10-08 20:56:45",
+      "end_date": "2019-10-08 21:16:45",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5769.0",
+      "start_date": "2019-10-08 22:42:45",
+      "end_date": "2019-10-08 23:15:45",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5497.0",
+      "start_date": "2019-10-08 23:58:45",
+      "end_date": "2019-10-09 07:08:47",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5767.0",
+      "start_date": "2019-10-09 07:08:47",
+      "end_date": "2019-10-09 07:08:47",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": ""
+    },
+    {
+      "id": "5859.0",
+      "start_date": "2019-10-09 11:23:46",
+      "end_date": "2019-10-09 11:43:46",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5988.0",
+      "start_date": "2019-10-09 15:58:45",
+      "end_date": "2019-10-09 16:43:45",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6245.0",
+      "start_date": "2019-10-09 16:53:45",
+      "end_date": "2019-10-09 16:53:45",
+      "text": "Deadline",
+      "details": "Reading: Conard, Watch: Wallace (longer version) Writing: 1C"
+    },
+    {
+      "id": "6046.0",
+      "start_date": "2019-10-09 16:58:45",
+      "end_date": "2019-10-09 18:12:45",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Discuss readings, speech, and 1C; discuss argumentation; analyze the authors\u2019 use of evidence"
+    },
+    {
+      "id": "6104.0",
+      "start_date": "2019-10-09 19:58:45",
+      "end_date": "2019-10-09 20:43:45",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5498.0",
+      "start_date": "2019-10-09 23:58:45",
+      "end_date": "2019-10-10 07:08:47",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5742.0",
+      "start_date": "2019-10-10 15:23:45",
+      "end_date": "2019-10-10 15:23:45",
+      "text": "t.\u7463\u4e8b",
+      "details": "Quiz"
+    },
+    {
+      "id": "5958.0",
+      "start_date": "2019-10-10 15:28:45",
+      "end_date": "2019-10-10 16:41:45",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6105.0",
+      "start_date": "2019-10-10 16:58:45",
+      "end_date": "2019-10-10 18:40:45",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6102.0",
+      "start_date": "2019-10-10 18:40:45",
+      "end_date": "2019-10-10 18:40:45",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6049.0",
+      "start_date": "2019-10-10 19:28:45",
+      "end_date": "2019-10-10 20:13:45",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "5508.0",
+      "start_date": "2019-10-10 23:58:45",
+      "end_date": "2019-10-11 07:08:47",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6106.0",
+      "start_date": "2019-10-11 12:58:45",
+      "end_date": "2019-10-11 13:43:45",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5515.0",
+      "start_date": "2019-10-11 23:58:45",
+      "end_date": "2019-10-12 07:08:47",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5518.0",
+      "start_date": "2019-10-12 23:58:45",
+      "end_date": "2019-10-13 07:08:47",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5864.0",
+      "start_date": "2019-10-13 13:36:00",
+      "end_date": "2019-10-13 13:55:00",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5866.0",
+      "start_date": "2019-10-13 16:57:00",
+      "end_date": "2019-10-13 17:16:00",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5879.0",
+      "start_date": "2019-10-13 17:37:24",
+      "end_date": "2019-10-13 21:37:24",
+      "text": "t.CIS Assignment",
+      "details": ""
+    },
+    {
+      "id": "5862.0",
+      "start_date": "2019-10-13 20:00:00",
+      "end_date": "2019-10-13 20:00:00",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": "[\u4ed8\u623f\u79df]"
+    },
+    {
+      "id": "5943.0",
+      "start_date": "2019-10-13 20:00:00",
+      "end_date": "2019-10-13 21:30:00",
+      "text": "t.CIS Assignment",
+      "details": "[Homework 2]"
+    },
+    {
+      "id": "5875.0",
+      "start_date": "2019-10-14 00:24:00",
+      "end_date": "2019-10-14 01:39:00",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Reading: Keohane Writing: 1D, ]"
+    },
+    {
+      "id": "5876.0",
+      "start_date": "2019-10-14 02:02:00",
+      "end_date": "2019-10-14 02:48:00",
+      "text": "t.EWRT Reading Assignment",
+      "details": "[Reading: Keohane Writing: 1D, ]"
+    },
+    {
+      "id": "5521.0",
+      "start_date": "2019-10-14 03:00:00",
+      "end_date": "2019-10-14 10:08:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5874.0",
+      "start_date": "2019-10-14 11:24:00",
+      "end_date": "2019-10-14 11:42:00",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6107.0",
+      "start_date": "2019-10-14 12:58:00",
+      "end_date": "2019-10-14 13:43:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5989.0",
+      "start_date": "2019-10-14 15:58:00",
+      "end_date": "2019-10-14 16:43:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6246.0",
+      "start_date": "2019-10-14 16:53:00",
+      "end_date": "2019-10-14 16:53:00",
+      "text": "Deadline",
+      "details": "Reading: Keohane Writing: 1D, 1ABC Response"
+    },
+    {
+      "id": "6047.0",
+      "start_date": "2019-10-14 16:58:00",
+      "end_date": "2019-10-14 18:11:00",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Discuss reading, and 1D; review Unit 1 prompt"
+    },
+    {
+      "id": "5877.0",
+      "start_date": "2019-10-14 18:12:00",
+      "end_date": "2019-10-14 18:30:00",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6009.0",
+      "start_date": "2019-10-14 22:58:00",
+      "end_date": "2019-10-14 22:58:00",
+      "text": "Deadline",
+      "details": "Hw2: (more counting) \ndue"
+    },
+    {
+      "id": "6279.0",
+      "start_date": "2019-10-14 23:57:00",
+      "end_date": "2019-10-14 23:57:00",
+      "text": "Deadline",
+      "details": "Homework 2"
+    },
+    {
+      "id": "5523.0",
+      "start_date": "2019-10-14 23:58:00",
+      "end_date": "2019-10-15 07:04:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5006.0",
+      "start_date": "2019-10-15 09:10:59",
+      "end_date": "2019-10-15 09:10:59",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": ""
+    },
+    {
+      "id": "5880.0",
+      "start_date": "2019-10-15 11:17:59",
+      "end_date": "2019-10-15 11:35:59",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5959.0",
+      "start_date": "2019-10-15 15:27:59",
+      "end_date": "2019-10-15 16:39:59",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6226.0",
+      "start_date": "2019-10-15 16:39:59",
+      "end_date": "2019-10-15 17:15:59",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "6286.0",
+      "start_date": "2019-10-15 18:59:59",
+      "end_date": "2019-10-15 18:59:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "\u5175\u5f79\u62bd\u7c64 10/16"
+    },
+    {
+      "id": "5977.0",
+      "start_date": "2019-10-15 19:27:59",
+      "end_date": "2019-10-15 20:12:59",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQ&A"
+    },
+    {
+      "id": "5881.0",
+      "start_date": "2019-10-15 20:12:59",
+      "end_date": "2019-10-15 20:30:59",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5882.0",
+      "start_date": "2019-10-15 20:31:59",
+      "end_date": "2019-10-15 20:42:59",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5883.0",
+      "start_date": "2019-10-15 20:42:59",
+      "end_date": "2019-10-15 21:11:59",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5938.0",
+      "start_date": "2019-10-15 21:16:59",
+      "end_date": "2019-10-15 21:16:59",
+      "text": "t.CIS Assignment",
+      "details": "[HW3 due]"
+    },
+    {
+      "id": "5941.0",
+      "start_date": "2019-10-15 22:59:59",
+      "end_date": "2019-10-15 21:11:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW3 due"
+    },
+    {
+      "id": "5391.0",
+      "start_date": "2019-10-15 22:59:59",
+      "end_date": "2019-10-15 21:31:59",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "5525.0",
+      "start_date": "2019-10-15 23:57:59",
+      "end_date": "2019-10-16 10:05:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5884.0",
+      "start_date": "2019-10-16 07:06:59",
+      "end_date": "2019-10-16 12:57:59",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6109.0",
+      "start_date": "2019-10-16 12:57:59",
+      "end_date": "2019-10-16 13:42:59",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5885.0",
+      "start_date": "2019-10-16 13:42:59",
+      "end_date": "2019-10-16 01:43:10",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Writing: 1E]"
+    },
+    {
+      "id": "5990.0",
+      "start_date": "2019-10-16 15:57:59",
+      "end_date": "2019-10-16 16:42:59",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6247.0",
+      "start_date": "2019-10-16 16:52:59",
+      "end_date": "2019-10-16 16:52:59",
+      "text": "Deadline",
+      "details": "Writing: 1E"
+    },
+    {
+      "id": "6059.0",
+      "start_date": "2019-10-16 16:57:59",
+      "end_date": "2019-10-16 18:09:59",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Workshop 1E"
+    },
+    {
+      "id": "6111.0",
+      "start_date": "2019-10-16 19:57:59",
+      "end_date": "2019-10-16 20:42:59",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5886.0",
+      "start_date": "2019-10-16 20:42:59",
+      "end_date": "2019-10-16 21:12:59",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5887.0",
+      "start_date": "2019-10-16 21:39:59",
+      "end_date": "2019-10-16 21:30:59",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5953.0",
+      "start_date": "2019-10-16 21:44:59",
+      "end_date": "2019-10-16 21:44:59",
+      "text": "\u6d17\u8863",
+      "details": ""
+    },
+    {
+      "id": "5888.0",
+      "start_date": "2019-10-16 21:58:59",
+      "end_date": "2019-10-16 22:10:59",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5526.0",
+      "start_date": "2019-10-16 23:57:59",
+      "end_date": "2019-10-17 07:03:59",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5889.0",
+      "start_date": "2019-10-17 07:06:59",
+      "end_date": "2019-10-17 15:27:59",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5960.0",
+      "start_date": "2019-10-17 15:27:59",
+      "end_date": "2019-10-17 16:39:59",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6112.0",
+      "start_date": "2019-10-17 16:57:59",
+      "end_date": "2019-10-17 18:38:59",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6050.0",
+      "start_date": "2019-10-17 19:27:59",
+      "end_date": "2019-10-17 20:12:59",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nHW4 overview"
+    },
+    {
+      "id": "5890.0",
+      "start_date": "2019-10-17 20:12:59",
+      "end_date": "2019-10-17 20:30:59",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5891.0",
+      "start_date": "2019-10-17 20:31:59",
+      "end_date": "2019-10-17 20:43:59",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5892.0",
+      "start_date": "2019-10-17 20:46:59",
+      "end_date": "2019-10-17 21:16:59",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5527.0",
+      "start_date": "2019-10-17 23:57:59",
+      "end_date": "2019-10-18 07:03:59",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5893.0",
+      "start_date": "2019-10-18 07:06:59",
+      "end_date": "2019-10-18 12:57:59",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6113.0",
+      "start_date": "2019-10-18 12:57:59",
+      "end_date": "2019-10-18 13:42:59",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "4964.0",
+      "start_date": "2019-10-18 13:55:59",
+      "end_date": "2019-10-18 14:17:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "\u9818\u53d6\u542b\u6676\u7247\u65b0\u8b77\u7167 10/9"
+    },
+    {
+      "id": "5016.0",
+      "start_date": "2019-10-18 14:45:59",
+      "end_date": "2019-10-18 15:07:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "Change AAA Address"
+    },
+    {
+      "id": "5020.0",
+      "start_date": "2019-10-18 15:35:59",
+      "end_date": "2019-10-18 15:57:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "Get License Plate"
+    },
+    {
+      "id": "5056.0",
+      "start_date": "2019-10-18 16:25:59",
+      "end_date": "2019-10-18 16:47:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "Get Temp DL"
+    },
+    {
+      "id": "6281.0",
+      "start_date": "2019-10-18 16:50:59",
+      "end_date": "2019-10-18 17:12:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "Change DMV Address"
+    },
+    {
+      "id": "6282.0",
+      "start_date": "2019-10-18 17:15:59",
+      "end_date": "2019-10-18 17:37:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "Change Bank Address"
+    },
+    {
+      "id": "6283.0",
+      "start_date": "2019-10-18 17:40:59",
+      "end_date": "2019-10-18 18:02:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "Change Verizon Address"
+    },
+    {
+      "id": "6284.0",
+      "start_date": "2019-10-18 18:05:59",
+      "end_date": "2019-10-18 18:27:59",
+      "text": "t.\u7463\u4e8b",
+      "details": "Change School Address"
+    },
+    {
+      "id": "5894.0",
+      "start_date": "2019-10-18 18:30:59",
+      "end_date": "2019-10-18 19:15:59",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "5895.0",
+      "start_date": "2019-10-18 19:17:59",
+      "end_date": "2019-10-18 19:47:59",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5896.0",
+      "start_date": "2019-10-18 19:50:59",
+      "end_date": "2019-10-18 20:05:59",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5529.0",
+      "start_date": "2019-10-18 20:35:59",
+      "end_date": "2019-10-18 20:35:59",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": "[Deadline to\u00a0change grading opt]"
+    },
+    {
+      "id": "5434.0",
+      "start_date": "2019-10-18 23:57:59",
+      "end_date": "2019-10-19 07:01:59",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5915.0",
+      "start_date": "2019-10-19 11:28:22",
+      "end_date": "2019-10-19 19:40:58",
+      "text": "t.CIS Assignment",
+      "details": "[HW4 due]"
+    },
+    {
+      "id": "5670.0",
+      "start_date": "2019-10-19 19:41:12",
+      "end_date": "2019-10-19 23:41:12",
+      "text": "t.CIS Assignment",
+      "details": "[Homework 3]"
+    },
+    {
+      "id": "5900.0",
+      "start_date": "2019-10-19 21:01:43",
+      "end_date": "2019-10-20 01:49:43",
+      "text": "t.Formal Paper",
+      "details": "[Writing: 1F (Bring 2 copies)]"
+    },
+    {
+      "id": "5530.0",
+      "start_date": "2019-10-20 02:34:47",
+      "end_date": "2019-10-20 09:39:47",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5700.0",
+      "start_date": "2019-10-20 11:09:56",
+      "end_date": "2019-10-20 18:27:45",
+      "text": "t.Formal Paper",
+      "details": "[Writing: 1F (Bring 2 copies)]"
+    },
+    {
+      "id": "5698.0",
+      "start_date": "2019-10-20 19:57:54",
+      "end_date": "2019-10-20 20:57:54",
+      "text": "t.CIS Assignment",
+      "details": "[HW4 due]"
+    },
+    {
+      "id": "5905.0",
+      "start_date": "2019-10-20 21:42:59",
+      "end_date": "2019-10-20 22:11:59",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5906.0",
+      "start_date": "2019-10-20 22:15:59",
+      "end_date": "2019-10-20 22:26:59",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5531.0",
+      "start_date": "2019-10-20 23:59:59",
+      "end_date": "2019-10-21 07:04:59",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5908.0",
+      "start_date": "2019-10-21 07:08:59",
+      "end_date": "2019-10-21 07:37:59",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5909.0",
+      "start_date": "2019-10-21 07:41:59",
+      "end_date": "2019-10-21 07:59:59",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6114.0",
+      "start_date": "2019-10-21 12:59:59",
+      "end_date": "2019-10-21 13:44:59",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5592.0",
+      "start_date": "2019-10-21 13:44:59",
+      "end_date": "2019-10-21 13:56:59",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "5991.0",
+      "start_date": "2019-10-21 15:59:59",
+      "end_date": "2019-10-21 16:44:59",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6248.0",
+      "start_date": "2019-10-21 16:54:59",
+      "end_date": "2019-10-21 16:54:59",
+      "text": "Deadline",
+      "details": "Writing: 1F (Bring 2 copies)"
+    },
+    {
+      "id": "6084.0",
+      "start_date": "2019-10-21 16:59:59",
+      "end_date": "2019-10-21 18:14:59",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "All-class / small-group workshop of 1F"
+    },
+    {
+      "id": "5910.0",
+      "start_date": "2019-10-21 18:18:59",
+      "end_date": "2019-10-21 18:36:59",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5911.0",
+      "start_date": "2019-10-21 18:37:59",
+      "end_date": "2019-10-21 18:55:59",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "5912.0",
+      "start_date": "2019-10-21 18:58:59",
+      "end_date": "2019-10-21 19:09:59",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6010.0",
+      "start_date": "2019-10-21 22:59:59",
+      "end_date": "2019-10-21 22:59:59",
+      "text": "Deadline",
+      "details": "HW3:( data encoding ) due"
+    },
+    {
+      "id": "5913.0",
+      "start_date": "2019-10-21 22:59:59",
+      "end_date": "2019-10-21 22:59:59",
+      "text": "\u6d17\u8863",
+      "details": ""
+    },
+    {
+      "id": "6280.0",
+      "start_date": "2019-10-21 23:58:59",
+      "end_date": "2019-10-21 23:58:59",
+      "text": "Deadline",
+      "details": "Homework 3"
+    },
+    {
+      "id": "5532.0",
+      "start_date": "2019-10-21 23:59:59",
+      "end_date": "2019-10-22 07:04:59",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5914.0",
+      "start_date": "2019-10-22 07:08:59",
+      "end_date": "2019-10-22 07:26:59",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5702.0",
+      "start_date": "2019-10-22 07:27:28",
+      "end_date": "2019-10-22 07:27:28",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": "[Deadline to\u00a0change grading opt]"
+    },
+    {
+      "id": "5706.0",
+      "start_date": "2019-10-22 13:18:28",
+      "end_date": "2019-10-22 14:18:28",
+      "text": "t.CIS Assignment",
+      "details": "[HW4]"
+    },
+    {
+      "id": "5918.0",
+      "start_date": "2019-10-22 15:24:28",
+      "end_date": "2019-10-22 15:24:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW4 due"
+    },
+    {
+      "id": "5961.0",
+      "start_date": "2019-10-22 15:29:28",
+      "end_date": "2019-10-22 16:41:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5916.0",
+      "start_date": "2019-10-22 16:48:28",
+      "end_date": "2019-10-22 18:00:28",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Writing: 1F+ (Bring 2 copies)]"
+    },
+    {
+      "id": "5978.0",
+      "start_date": "2019-10-22 19:29:28",
+      "end_date": "2019-10-22 20:14:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQuiz review"
+    },
+    {
+      "id": "5709.0",
+      "start_date": "2019-10-22 20:14:28",
+      "end_date": "2019-10-22 23:14:28",
+      "text": "t.CIS Assignment",
+      "details": "[HW4]"
+    },
+    {
+      "id": "5919.0",
+      "start_date": "2019-10-22 20:18:28",
+      "end_date": "2019-10-22 20:18:28",
+      "text": "t.Gym Workout",
+      "details": "[Deadline to\u00a0change grading opt]"
+    },
+    {
+      "id": "5922.0",
+      "start_date": "2019-10-22 20:28:28",
+      "end_date": "2019-10-22 20:46:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5925.0",
+      "start_date": "2019-10-22 20:47:28",
+      "end_date": "2019-10-22 21:15:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5928.0",
+      "start_date": "2019-10-22 21:20:28",
+      "end_date": "2019-10-22 21:30:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5533.0",
+      "start_date": "2019-10-22 23:59:28",
+      "end_date": "2019-10-23 07:03:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5929.0",
+      "start_date": "2019-10-23 07:08:28",
+      "end_date": "2019-10-23 07:26:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6116.0",
+      "start_date": "2019-10-23 12:59:28",
+      "end_date": "2019-10-23 13:44:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5933.0",
+      "start_date": "2019-10-23 13:48:28",
+      "end_date": "2019-10-23 14:16:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5992.0",
+      "start_date": "2019-10-23 15:59:28",
+      "end_date": "2019-10-23 16:44:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6249.0",
+      "start_date": "2019-10-23 16:54:28",
+      "end_date": "2019-10-23 16:54:28",
+      "text": "Deadline",
+      "details": "Writing: 1F+ (Bring 2 copies)"
+    },
+    {
+      "id": "6085.0",
+      "start_date": "2019-10-23 16:59:28",
+      "end_date": "2019-10-23 18:12:28",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Style workshop"
+    },
+    {
+      "id": "6118.0",
+      "start_date": "2019-10-23 19:59:28",
+      "end_date": "2019-10-23 20:44:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5934.0",
+      "start_date": "2019-10-23 20:48:28",
+      "end_date": "2019-10-23 21:06:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5935.0",
+      "start_date": "2019-10-23 21:07:28",
+      "end_date": "2019-10-23 21:16:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5534.0",
+      "start_date": "2019-10-23 23:59:28",
+      "end_date": "2019-10-24 07:02:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5707.0",
+      "start_date": "2019-10-24 10:14:24",
+      "end_date": "2019-10-24 12:14:24",
+      "text": "t.CIS Quiz Prep",
+      "details": "[Quiz]"
+    },
+    {
+      "id": "5936.0",
+      "start_date": "2019-10-24 13:42:56",
+      "end_date": "2019-10-24 14:00:56",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5962.0",
+      "start_date": "2019-10-24 15:29:28",
+      "end_date": "2019-10-24 16:42:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture, Acadamic Plan due"
+    },
+    {
+      "id": "5926.0",
+      "start_date": "2019-10-24 15:29:28",
+      "end_date": "2019-10-24 15:29:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "Quiz"
+    },
+    {
+      "id": "6119.0",
+      "start_date": "2019-10-24 16:59:28",
+      "end_date": "2019-10-24 18:42:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6051.0",
+      "start_date": "2019-10-24 19:29:28",
+      "end_date": "2019-10-24 20:14:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nHW5 overview"
+    },
+    {
+      "id": "5540.0",
+      "start_date": "2019-10-24 23:59:28",
+      "end_date": "2019-10-24 20:36:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "Deadline to\u00a0change grading option, change units, and drop classes\u00a0without \"W\" grade on transcript"
+    },
+    {
+      "id": "5710.0",
+      "start_date": "2019-10-25 10:00:00",
+      "end_date": "2019-10-24 20:47:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "Degree Planning Assignment (Due 10/25, 11:59pm)"
+    },
+    {
+      "id": "5712.0",
+      "start_date": "2019-10-25 10:00:00",
+      "end_date": "2019-10-24 21:20:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "Academic\u00a0Integrity\u00a0Tutorial\u00a0Requirement"
+    },
+    {
+      "id": "5745.0",
+      "start_date": "2019-10-25 10:01:28",
+      "end_date": "2019-10-25 10:01:28",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": ""
+    },
+    {
+      "id": "6120.0",
+      "start_date": "2019-10-25 12:59:28",
+      "end_date": "2019-10-25 13:47:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5945.0",
+      "start_date": "2019-10-25 13:47:28",
+      "end_date": "2019-10-25 14:47:28",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "5946.0",
+      "start_date": "2019-10-25 14:47:28",
+      "end_date": "2019-10-25 15:07:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5947.0",
+      "start_date": "2019-10-25 15:07:28",
+      "end_date": "2019-10-25 15:29:28",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "5948.0",
+      "start_date": "2019-10-25 15:29:28",
+      "end_date": "2019-10-25 16:03:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5949.0",
+      "start_date": "2019-10-25 16:03:28",
+      "end_date": "2019-10-25 16:03:28",
+      "text": "\u6d17\u8863",
+      "details": ""
+    },
+    {
+      "id": "5950.0",
+      "start_date": "2019-10-25 16:03:28",
+      "end_date": "2019-10-25 16:19:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6078.0",
+      "start_date": "2019-10-25 22:00:12",
+      "end_date": "2019-10-26 03:00:12",
+      "text": "t.CIS Assignment",
+      "details": "HW5 due"
+    },
+    {
+      "id": "5541.0",
+      "start_date": "2019-10-26 03:00:12",
+      "end_date": "2019-10-26 09:59:59",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6079.0",
+      "start_date": "2019-10-26 10:00:00",
+      "end_date": "2019-10-26 13:00:00",
+      "text": "t.CIS Assignment",
+      "details": "HW5 due"
+    },
+    {
+      "id": "5951.0",
+      "start_date": "2019-10-26 13:21:34",
+      "end_date": "2019-10-26 13:37:34",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5952.0",
+      "start_date": "2019-10-26 14:20:44",
+      "end_date": "2019-10-26 14:54:44",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6025.0",
+      "start_date": "2019-10-26 15:37:53",
+      "end_date": "2019-10-26 23:37:53",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Writing: 1G Do: 1H in class]"
+    },
+    {
+      "id": "5542.0",
+      "start_date": "2019-10-26 23:59:28",
+      "end_date": "2019-10-27 07:13:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6031.0",
+      "start_date": "2019-10-27 09:22:48",
+      "end_date": "2019-10-27 12:22:48",
+      "text": "t.CIS Assignment",
+      "details": "[Homework 4]"
+    },
+    {
+      "id": "6020.0",
+      "start_date": "2019-10-27 16:41:28",
+      "end_date": "2019-10-27 17:15:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6021.0",
+      "start_date": "2019-10-27 21:34:08",
+      "end_date": "2019-10-27 21:50:08",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5546.0",
+      "start_date": "2019-10-27 23:59:28",
+      "end_date": "2019-10-28 07:13:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6022.0",
+      "start_date": "2019-10-28 07:13:28",
+      "end_date": "2019-10-28 07:33:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6121.0",
+      "start_date": "2019-10-28 12:59:28",
+      "end_date": "2019-10-28 13:46:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5993.0",
+      "start_date": "2019-10-28 15:59:28",
+      "end_date": "2019-10-28 16:46:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6250.0",
+      "start_date": "2019-10-28 16:54:28",
+      "end_date": "2019-10-28 16:54:28",
+      "text": "Deadline",
+      "details": "Writing: 1G Do: 1H in class"
+    },
+    {
+      "id": "6089.0",
+      "start_date": "2019-10-28 16:59:28",
+      "end_date": "2019-10-28 18:17:28",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Introduce Unit 2, compose a draft of 1H in class."
+    },
+    {
+      "id": "6032.0",
+      "start_date": "2019-10-28 19:43:28",
+      "end_date": "2019-10-28 20:03:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6033.0",
+      "start_date": "2019-10-28 20:03:28",
+      "end_date": "2019-10-28 20:19:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6011.0",
+      "start_date": "2019-10-28 22:59:28",
+      "end_date": "2019-10-28 22:59:28",
+      "text": "Deadline",
+      "details": "HW4: (iterative algorithms, proofs of algorithm correctness, asymptotic notation) due"
+    },
+    {
+      "id": "6036.0",
+      "start_date": "2019-10-28 22:59:28",
+      "end_date": "2019-10-28 23:13:28",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "6168.0",
+      "start_date": "2019-10-28 23:58:28",
+      "end_date": "2019-10-28 23:58:28",
+      "text": "Deadline",
+      "details": "Homework 4"
+    },
+    {
+      "id": "5547.0",
+      "start_date": "2019-10-28 23:59:28",
+      "end_date": "2019-10-29 07:13:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6038.0",
+      "start_date": "2019-10-29 07:13:28",
+      "end_date": "2019-10-29 07:33:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6081.0",
+      "start_date": "2019-10-29 10:45:40",
+      "end_date": "2019-10-29 12:45:40",
+      "text": "t.CIS Assignment",
+      "details": "HW5 due"
+    },
+    {
+      "id": "5963.0",
+      "start_date": "2019-10-29 15:29:28",
+      "end_date": "2019-10-29 16:46:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6083.0",
+      "start_date": "2019-10-29 18:00:00",
+      "end_date": "2019-10-29 19:29:27",
+      "text": "t.\u7463\u4e8b",
+      "details": "ServiceNow 10/29/19 6PM Qualcomm Conference Center\u00a0"
+    },
+    {
+      "id": "5979.0",
+      "start_date": "2019-10-29 19:29:28",
+      "end_date": "2019-10-29 20:16:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQ&A"
+    },
+    {
+      "id": "6040.0",
+      "start_date": "2019-10-29 20:16:28",
+      "end_date": "2019-10-29 20:36:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6060.0",
+      "start_date": "2019-10-29 20:36:28",
+      "end_date": "2019-10-29 21:03:28",
+      "text": "t.Billing Cycle",
+      "details": ""
+    },
+    {
+      "id": "6063.0",
+      "start_date": "2019-10-29 21:03:28",
+      "end_date": "2019-10-29 21:19:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6065.0",
+      "start_date": "2019-10-29 21:19:28",
+      "end_date": "2019-10-29 21:53:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6077.0",
+      "start_date": "2019-10-29 23:00:00",
+      "end_date": "2019-10-29 23:00:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW5 due"
+    },
+    {
+      "id": "5549.0",
+      "start_date": "2019-10-29 23:59:28",
+      "end_date": "2019-10-30 07:13:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6068.0",
+      "start_date": "2019-10-30 10:38:29",
+      "end_date": "2019-10-30 10:58:29",
+      "text": "t.EWRT Reading Assignment",
+      "details": "[Reading: Michaels (Chapters 1,]"
+    },
+    {
+      "id": "6067.0",
+      "start_date": "2019-10-30 11:33:58",
+      "end_date": "2019-10-30 12:03:58",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Reading: Michaels (Chapters 1,]"
+    },
+    {
+      "id": "6066.0",
+      "start_date": "2019-10-30 12:39:28",
+      "end_date": "2019-10-30 12:59:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6123.0",
+      "start_date": "2019-10-30 12:59:28",
+      "end_date": "2019-10-30 13:46:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5994.0",
+      "start_date": "2019-10-30 15:59:28",
+      "end_date": "2019-10-30 16:46:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6251.0",
+      "start_date": "2019-10-30 16:54:28",
+      "end_date": "2019-10-30 16:54:28",
+      "text": "Deadline",
+      "details": "Reading: Michaels (Chapters 1, 3, 7-8) Writing: 2A"
+    },
+    {
+      "id": "6232.0",
+      "start_date": "2019-10-30 16:59:28",
+      "end_date": "2019-10-30 18:17:28",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Discuss readings and 2A"
+    },
+    {
+      "id": "6125.0",
+      "start_date": "2019-10-30 19:59:28",
+      "end_date": "2019-10-30 20:46:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion "
+    },
+    {
+      "id": "6082.0",
+      "start_date": "2019-10-30 19:59:28",
+      "end_date": "2019-10-30 19:59:28",
+      "text": "Deadline",
+      "details": "Crunch Followup"
+    },
+    {
+      "id": "6069.0",
+      "start_date": "2019-10-30 20:46:28",
+      "end_date": "2019-10-30 21:10:28",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "6070.0",
+      "start_date": "2019-10-30 21:10:28",
+      "end_date": "2019-10-30 21:30:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6071.0",
+      "start_date": "2019-10-30 21:30:28",
+      "end_date": "2019-10-30 22:04:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6072.0",
+      "start_date": "2019-10-30 22:04:28",
+      "end_date": "2019-10-30 22:20:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5550.0",
+      "start_date": "2019-10-30 23:59:28",
+      "end_date": "2019-10-31 07:13:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5313.0",
+      "start_date": "2019-10-31 07:13:28",
+      "end_date": "2019-10-31 07:13:28",
+      "text": "BlockStart",
+      "details": ""
+    },
+    {
+      "id": "4904.0",
+      "start_date": "2019-10-31 09:12:28",
+      "end_date": "2019-10-31 09:12:28",
+      "text": "\u5b58\u53d6\u6b0a\u6b78\u96f6",
+      "details": "[\u4ed8\u623f\u79df]"
+    },
+    {
+      "id": "5191.0",
+      "start_date": "2019-10-31 09:12:28",
+      "end_date": "2019-10-31 09:33:28",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "5245.0",
+      "start_date": "2019-10-31 09:33:28",
+      "end_date": "2019-10-31 09:48:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6073.0",
+      "start_date": "2019-10-31 09:50:28",
+      "end_date": "2019-10-31 10:08:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5964.0",
+      "start_date": "2019-10-31 15:29:28",
+      "end_date": "2019-10-31 16:44:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6126.0",
+      "start_date": "2019-10-31 16:59:28",
+      "end_date": "2019-10-31 18:44:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6052.0",
+      "start_date": "2019-10-31 19:29:28",
+      "end_date": "2019-10-31 20:14:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nHW6 overview"
+    },
+    {
+      "id": "5551.0",
+      "start_date": "2019-10-31 20:14:28",
+      "end_date": "2019-10-31 21:01:28",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "5690.0",
+      "start_date": "2019-10-31 21:01:28",
+      "end_date": "2019-10-31 21:34:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5734.0",
+      "start_date": "2019-10-31 21:34:28",
+      "end_date": "2019-10-31 21:34:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "Verizon"
+    },
+    {
+      "id": "5695.0",
+      "start_date": "2019-10-31 22:00:28",
+      "end_date": "2019-10-31 22:19:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5720.0",
+      "start_date": "2019-10-31 23:32:28",
+      "end_date": "2019-10-31 23:33:15",
+      "text": "t.\u7463\u4e8b",
+      "details": "\u4ed8\u623f\u79df"
+    },
+    {
+      "id": "5817.0",
+      "start_date": "2019-11-01 02:00:28",
+      "end_date": "2019-11-01 02:46:10",
+      "text": "t.CIS Assignment",
+      "details": "[HW6 due]"
+    },
+    {
+      "id": "5553.0",
+      "start_date": "2019-11-01 03:59:28",
+      "end_date": "2019-11-01 09:59:58",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5703.0",
+      "start_date": "2019-11-01 12:40:28",
+      "end_date": "2019-11-01 12:59:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6127.0",
+      "start_date": "2019-11-01 12:59:28",
+      "end_date": "2019-11-01 13:45:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5738.0",
+      "start_date": "2019-11-01 14:36:28",
+      "end_date": "2019-11-01 15:09:37",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5825.0",
+      "start_date": "2019-11-01 16:00:28",
+      "end_date": "2019-11-01 22:00:46",
+      "text": "t.CIS Assignment",
+      "details": "[HW6 due]"
+    },
+    {
+      "id": "5746.0",
+      "start_date": "2019-11-01 22:28:28",
+      "end_date": "2019-11-01 22:48:20",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5765.0",
+      "start_date": "2019-11-01 23:16:28",
+      "end_date": "2019-11-01 23:30:54",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5554.0",
+      "start_date": "2019-11-01 23:59:28",
+      "end_date": "2019-11-02 07:06:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5774.0",
+      "start_date": "2019-11-02 07:06:28",
+      "end_date": "2019-11-02 07:19:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5834.0",
+      "start_date": "2019-11-02 11:20:28",
+      "end_date": "2019-11-02 11:44:00",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "5830.0",
+      "start_date": "2019-11-02 11:44:28",
+      "end_date": "2019-11-02 14:10:28",
+      "text": "t.CIS Assignment",
+      "details": "[HW6 due]"
+    },
+    {
+      "id": "5838.0",
+      "start_date": "2019-11-02 16:26:28",
+      "end_date": "2019-11-02 16:44:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "5776.0",
+      "start_date": "2019-11-02 16:44:28",
+      "end_date": "2019-11-02 17:11:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5560.0",
+      "start_date": "2019-11-02 23:59:28",
+      "end_date": "2019-11-03 07:02:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5785.0",
+      "start_date": "2019-11-03 20:00:00",
+      "end_date": "2019-11-03 20:27:00",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6110.0",
+      "start_date": "2019-11-04 00:43:28",
+      "end_date": "2019-11-04 00:57:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5561.0",
+      "start_date": "2019-11-04 00:59:28",
+      "end_date": "2019-11-04 08:02:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6292.0",
+      "start_date": "2019-11-04 10:13:57",
+      "end_date": "2019-11-04 10:29:58",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6115.0",
+      "start_date": "2019-11-04 12:41:28",
+      "end_date": "2019-11-04 12:59:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6122.0",
+      "start_date": "2019-11-04 11:17:00",
+      "end_date": "2019-11-04 11:40:08",
+      "text": "t.EWRT Reading Assignment",
+      "details": "[Reading: Michaels (Chapter 9-1]"
+    },
+    {
+      "id": "6124.0",
+      "start_date": "2019-11-04 11:40:08",
+      "end_date": "2019-11-04 12:41:27",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Reading: Michaels (Chapter 9-1]"
+    },
+    {
+      "id": "6128.0",
+      "start_date": "2019-11-04 12:59:28",
+      "end_date": "2019-11-04 13:44:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6273.0",
+      "start_date": "2019-11-04 14:21:58",
+      "end_date": "2019-11-04 15:21:58",
+      "text": "t.CIS Assignment",
+      "details": "HW5: (recursive algorithms, correcntess and time analysis) due"
+    },
+    {
+      "id": "5995.0",
+      "start_date": "2019-11-04 15:59:28",
+      "end_date": "2019-11-04 16:44:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6252.0",
+      "start_date": "2019-11-04 16:54:28",
+      "end_date": "2019-11-04 16:54:28",
+      "text": "Deadline",
+      "details": "Reading: Michaels (Chapter 9-10 & Epilogue), McAfee & Brynjolfsson Writing: 2B"
+    },
+    {
+      "id": "6233.0",
+      "start_date": "2019-11-04 16:59:28",
+      "end_date": "2019-11-04 18:11:28",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Discuss readings and 2B"
+    },
+    {
+      "id": "6270.0",
+      "start_date": "2019-11-04 18:25:53",
+      "end_date": "2019-11-04 18:59:53",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6131.0",
+      "start_date": "2019-11-04 19:28:43",
+      "end_date": "2019-11-04 18:45:44",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6129.0",
+      "start_date": "2019-11-04 20:15:34",
+      "end_date": "2019-11-04 19:48:17",
+      "text": "t.CIS Assignment",
+      "details": "Homework 5"
+    },
+    {
+      "id": "6138.0",
+      "start_date": "2019-11-04 21:00:00",
+      "end_date": "2019-11-04 23:59:59",
+      "text": "t.CIS Assignment",
+      "details": "HW5: (recursive algorithms, correcntess and time analysis) due"
+    },
+    {
+      "id": "6012.0",
+      "start_date": "2019-11-04 23:59:59",
+      "end_date": "2019-11-04 23:59:59",
+      "text": "Deadline",
+      "details": "HW5: (recursive algorithms, correcntess and time analysis) due"
+    },
+    {
+      "id": "6169.0",
+      "start_date": "2019-11-04 23:58:28",
+      "end_date": "2019-11-04 23:58:28",
+      "text": "Deadline",
+      "details": "Homework 5"
+    },
+    {
+      "id": "6271.0",
+      "start_date": "2019-11-05 00:33:28",
+      "end_date": "2019-11-05 01:30:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "Winter\u8ab2\u8868"
+    },
+    {
+      "id": "5563.0",
+      "start_date": "2019-11-05 01:30:00",
+      "end_date": "2019-11-05 08:33:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6293.0",
+      "start_date": "2019-11-05 09:05:48",
+      "end_date": "2019-11-05 10:05:48",
+      "text": "t.CIS Assignment",
+      "details": "[HW6 due]"
+    },
+    {
+      "id": "6144.0",
+      "start_date": "2019-11-05 11:11:25",
+      "end_date": "2019-11-05 11:29:25",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6147.0",
+      "start_date": "2019-11-05 12:35:02",
+      "end_date": "2019-11-05 12:46:02",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "6269.0",
+      "start_date": "2019-11-05 13:51:39",
+      "end_date": "2019-11-05 14:51:39",
+      "text": "t.CIS Assignment",
+      "details": "[HW6 due]"
+    },
+    {
+      "id": "5930.0",
+      "start_date": "2019-11-05 15:24:28",
+      "end_date": "2019-11-05 15:24:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW6 due"
+    },
+    {
+      "id": "5965.0",
+      "start_date": "2019-11-05 15:29:28",
+      "end_date": "2019-11-05 16:43:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5980.0",
+      "start_date": "2019-11-05 19:29:28",
+      "end_date": "2019-11-05 20:14:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQuiz review"
+    },
+    {
+      "id": "6162.0",
+      "start_date": "2019-11-05 20:14:28",
+      "end_date": "2019-11-05 20:34:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6153.0",
+      "start_date": "2019-11-05 20:34:28",
+      "end_date": "2019-11-05 20:34:28",
+      "text": "\u6d17\u8863",
+      "details": ""
+    },
+    {
+      "id": "6156.0",
+      "start_date": "2019-11-05 20:34:28",
+      "end_date": "2019-11-05 21:07:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6165.0",
+      "start_date": "2019-11-05 21:07:28",
+      "end_date": "2019-11-05 21:23:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5564.0",
+      "start_date": "2019-11-06 01:59:28",
+      "end_date": "2019-11-06 09:03:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6180.0",
+      "start_date": "2019-11-06 09:03:28",
+      "end_date": "2019-11-06 09:23:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6130.0",
+      "start_date": "2019-11-06 12:59:28",
+      "end_date": "2019-11-06 13:44:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6182.0",
+      "start_date": "2019-11-06 13:44:28",
+      "end_date": "2019-11-06 15:01:28",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Reading: Wong, Rhode, Kay & Sh]"
+    },
+    {
+      "id": "6187.0",
+      "start_date": "2019-11-06 15:01:28",
+      "end_date": "2019-11-06 15:49:28",
+      "text": "t.EWRT Reading Assignment",
+      "details": "[Reading: Wong, Rhode, Kay & Sh]"
+    },
+    {
+      "id": "5996.0",
+      "start_date": "2019-11-06 15:59:28",
+      "end_date": "2019-11-06 16:44:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6253.0",
+      "start_date": "2019-11-06 16:54:28",
+      "end_date": "2019-11-06 16:54:28",
+      "text": "Deadline",
+      "details": "Reading: Wong, Rhode, Kay & Shipman Writing: 2C"
+    },
+    {
+      "id": "6234.0",
+      "start_date": "2019-11-06 16:59:28",
+      "end_date": "2019-11-06 18:14:28",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Discuss readings and 2C; review the prompt for essay #2"
+    },
+    {
+      "id": "6132.0",
+      "start_date": "2019-11-06 19:59:28",
+      "end_date": "2019-11-06 20:44:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "6188.0",
+      "start_date": "2019-11-06 20:44:28",
+      "end_date": "2019-11-06 21:08:28",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "6189.0",
+      "start_date": "2019-11-06 21:08:28",
+      "end_date": "2019-11-06 21:28:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6190.0",
+      "start_date": "2019-11-06 21:28:28",
+      "end_date": "2019-11-06 21:44:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6191.0",
+      "start_date": "2019-11-06 21:44:28",
+      "end_date": "2019-11-06 21:58:28",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "5565.0",
+      "start_date": "2019-11-06 23:59:28",
+      "end_date": "2019-11-07 07:05:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6192.0",
+      "start_date": "2019-11-07 07:05:28",
+      "end_date": "2019-11-07 07:25:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6193.0",
+      "start_date": "2019-11-07 07:25:28",
+      "end_date": "2019-11-07 13:42:28",
+      "text": "t.CIS Quiz Prep",
+      "details": "[Quiz]"
+    },
+    {
+      "id": "5931.0",
+      "start_date": "2019-11-07 15:24:28",
+      "end_date": "2019-11-07 15:24:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "Quiz"
+    },
+    {
+      "id": "5966.0",
+      "start_date": "2019-11-07 15:29:28",
+      "end_date": "2019-11-07 16:45:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6133.0",
+      "start_date": "2019-11-07 16:59:28",
+      "end_date": "2019-11-07 18:44:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6053.0",
+      "start_date": "2019-11-07 19:29:28",
+      "end_date": "2019-11-07 20:15:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nHW7 overview"
+    },
+    {
+      "id": "6194.0",
+      "start_date": "2019-11-07 20:15:28",
+      "end_date": "2019-11-07 20:35:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6195.0",
+      "start_date": "2019-11-07 20:35:28",
+      "end_date": "2019-11-07 21:09:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6196.0",
+      "start_date": "2019-11-07 21:09:28",
+      "end_date": "2019-11-07 21:31:28",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "6197.0",
+      "start_date": "2019-11-07 21:31:28",
+      "end_date": "2019-11-07 21:47:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5566.0",
+      "start_date": "2019-11-07 23:59:28",
+      "end_date": "2019-11-08 07:05:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6198.0",
+      "start_date": "2019-11-08 07:05:28",
+      "end_date": "2019-11-08 07:25:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6134.0",
+      "start_date": "2019-11-08 12:59:28",
+      "end_date": "2019-11-08 13:44:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6200.0",
+      "start_date": "2019-11-08 18:44:28",
+      "end_date": "2019-11-08 19:03:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6201.0",
+      "start_date": "2019-11-08 19:03:28",
+      "end_date": "2019-11-08 19:36:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6202.0",
+      "start_date": "2019-11-08 19:36:28",
+      "end_date": "2019-11-08 19:51:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5567.0",
+      "start_date": "2019-11-08 23:59:28",
+      "end_date": "2019-11-09 07:08:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6203.0",
+      "start_date": "2019-11-09 07:08:28",
+      "end_date": "2019-11-09 07:41:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6204.0",
+      "start_date": "2019-11-09 07:41:28",
+      "end_date": "2019-11-09 07:56:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5569.0",
+      "start_date": "2019-11-09 23:59:28",
+      "end_date": "2019-11-10 07:08:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6205.0",
+      "start_date": "2019-11-10 07:08:28",
+      "end_date": "2019-11-10 07:41:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6206.0",
+      "start_date": "2019-11-10 07:41:28",
+      "end_date": "2019-11-10 07:56:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5573.0",
+      "start_date": "2019-11-10 23:59:28",
+      "end_date": "2019-11-11 07:08:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6207.0",
+      "start_date": "2019-11-11 07:08:28",
+      "end_date": "2019-11-11 07:27:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6135.0",
+      "start_date": "2019-11-11 12:59:28",
+      "end_date": "2019-11-11 13:48:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6208.0",
+      "start_date": "2019-11-11 13:48:28",
+      "end_date": "2019-11-11 15:04:28",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Writing: 2D (question, discove]"
+    },
+    {
+      "id": "5997.0",
+      "start_date": "2019-11-11 15:59:28",
+      "end_date": "2019-11-11 16:48:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6254.0",
+      "start_date": "2019-11-11 16:54:28",
+      "end_date": "2019-11-11 16:54:28",
+      "text": "Deadline",
+      "details": "Writing: 2D (question, discovery draft, claim and introduction)"
+    },
+    {
+      "id": "6235.0",
+      "start_date": "2019-11-11 16:59:28",
+      "end_date": "2019-11-11 18:18:28",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "HOLIDAY \u2013 NO CLASS 2D feedback will be given online"
+    },
+    {
+      "id": "6209.0",
+      "start_date": "2019-11-11 18:18:28",
+      "end_date": "2019-11-11 18:37:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6210.0",
+      "start_date": "2019-11-11 18:37:28",
+      "end_date": "2019-11-11 18:52:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6211.0",
+      "start_date": "2019-11-11 18:52:28",
+      "end_date": "2019-11-11 19:25:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "5575.0",
+      "start_date": "2019-11-11 23:59:28",
+      "end_date": "2019-11-12 07:08:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6272.0",
+      "start_date": "2019-11-12 07:08:28",
+      "end_date": "2019-11-12 08:34:28",
+      "text": "t.CIS Assignment",
+      "details": "[HW7 due]"
+    },
+    {
+      "id": "6212.0",
+      "start_date": "2019-11-12 08:34:28",
+      "end_date": "2019-11-12 08:53:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6000.0",
+      "start_date": "2019-11-12 15:24:28",
+      "end_date": "2019-11-12 15:24:28",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW7 due"
+    },
+    {
+      "id": "5967.0",
+      "start_date": "2019-11-12 15:29:28",
+      "end_date": "2019-11-12 16:49:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6213.0",
+      "start_date": "2019-11-12 16:49:28",
+      "end_date": "2019-11-12 17:13:28",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "5981.0",
+      "start_date": "2019-11-12 19:29:28",
+      "end_date": "2019-11-12 20:19:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQ&A"
+    },
+    {
+      "id": "6214.0",
+      "start_date": "2019-11-12 22:40:28",
+      "end_date": "2019-11-12 23:00:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6215.0",
+      "start_date": "2019-11-12 23:00:28",
+      "end_date": "2019-11-12 23:33:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6216.0",
+      "start_date": "2019-11-12 23:33:28",
+      "end_date": "2019-11-12 23:48:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6217.0",
+      "start_date": "2019-11-12 23:48:28",
+      "end_date": "2019-11-12 23:48:28",
+      "text": "\u6d17\u8863",
+      "details": ""
+    },
+    {
+      "id": "5576.0",
+      "start_date": "2019-11-12 23:59:28",
+      "end_date": "2019-11-13 07:08:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6285.0",
+      "start_date": "2019-11-13 09:59:28",
+      "end_date": "2019-11-13 10:15:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6287.0",
+      "start_date": "2019-11-13 10:15:28",
+      "end_date": "2019-11-13 10:35:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6288.0",
+      "start_date": "2019-11-13 10:35:28",
+      "end_date": "2019-11-13 10:55:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6289.0",
+      "start_date": "2019-11-13 10:55:28",
+      "end_date": "2019-11-13 11:17:28",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "6015.0",
+      "start_date": "2019-11-13 12:29:28",
+      "end_date": "2019-11-13 12:29:28",
+      "text": "Deadline",
+      "details": "Midterm: Counting, encoding, iterative algorithms, order notation, recursion, recurrences\u00a0"
+    },
+    {
+      "id": "6218.0",
+      "start_date": "2019-11-13 12:29:28",
+      "end_date": "2019-11-13 12:48:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6137.0",
+      "start_date": "2019-11-13 12:59:28",
+      "end_date": "2019-11-13 13:48:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6219.0",
+      "start_date": "2019-11-13 13:48:28",
+      "end_date": "2019-11-13 15:04:28",
+      "text": "t.Informal Writing Assignment",
+      "details": "[Writing: 2E is due at your one]"
+    },
+    {
+      "id": "6291.0",
+      "start_date": "2019-11-13 15:38:28",
+      "end_date": "2019-11-13 15:50:28",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "6274.0",
+      "start_date": "2019-11-13 15:54:28",
+      "end_date": "2019-11-13 15:54:28",
+      "text": "Deadline",
+      "details": "15L Midterm"
+    },
+    {
+      "id": "5998.0",
+      "start_date": "2019-11-13 15:59:28",
+      "end_date": "2019-11-13 16:49:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Midterm"
+    },
+    {
+      "id": "6255.0",
+      "start_date": "2019-11-13 16:54:28",
+      "end_date": "2019-11-13 16:54:28",
+      "text": "Deadline",
+      "details": "Writing: 2E is due at your one-on-one conference time"
+    },
+    {
+      "id": "6236.0",
+      "start_date": "2019-11-13 16:59:28",
+      "end_date": "2019-11-13 18:19:28",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Individual conferences. No class. In lieu of class, students will meet with instructor to discuss 2E"
+    },
+    {
+      "id": "6139.0",
+      "start_date": "2019-11-13 19:59:28",
+      "end_date": "2019-11-13 20:49:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "6220.0",
+      "start_date": "2019-11-13 20:49:28",
+      "end_date": "2019-11-13 21:09:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6221.0",
+      "start_date": "2019-11-13 21:09:28",
+      "end_date": "2019-11-13 21:43:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6223.0",
+      "start_date": "2019-11-13 21:43:28",
+      "end_date": "2019-11-13 21:58:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5579.0",
+      "start_date": "2019-11-13 23:59:28",
+      "end_date": "2019-11-14 07:08:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6224.0",
+      "start_date": "2019-11-14 07:08:28",
+      "end_date": "2019-11-14 07:27:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6225.0",
+      "start_date": "2019-11-14 07:27:28",
+      "end_date": "2019-11-14 08:26:28",
+      "text": "t.Gym Workout",
+      "details": ""
+    },
+    {
+      "id": "5968.0",
+      "start_date": "2019-11-14 15:29:28",
+      "end_date": "2019-11-14 16:48:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6140.0",
+      "start_date": "2019-11-14 16:59:28",
+      "end_date": "2019-11-14 18:48:28",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6054.0",
+      "start_date": "2019-11-14 19:29:28",
+      "end_date": "2019-11-14 20:19:28",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nHW8 overview"
+    },
+    {
+      "id": "6227.0",
+      "start_date": "2019-11-14 20:19:28",
+      "end_date": "2019-11-14 20:53:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6228.0",
+      "start_date": "2019-11-14 20:53:28",
+      "end_date": "2019-11-14 20:53:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6229.0",
+      "start_date": "2019-11-14 21:13:28",
+      "end_date": "2019-11-14 21:35:28",
+      "text": "\u74b0\u5883\u6e05\u7406_\u771f\u5be6\u74b0\u5883",
+      "details": ""
+    },
+    {
+      "id": "6230.0",
+      "start_date": "2019-11-14 21:35:28",
+      "end_date": "2019-11-14 21:51:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5580.0",
+      "start_date": "2019-11-14 23:59:28",
+      "end_date": "2019-11-15 07:09:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6231.0",
+      "start_date": "2019-11-15 07:09:28",
+      "end_date": "2019-11-15 07:29:28",
+      "text": "Go School",
+      "details": ""
+    },
+    {
+      "id": "6141.0",
+      "start_date": "2019-11-15 12:59:28",
+      "end_date": "2019-11-15 13:49:28",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6262.0",
+      "start_date": "2019-11-15 13:49:28",
+      "end_date": "2019-11-15 14:09:28",
+      "text": "Back Home",
+      "details": ""
+    },
+    {
+      "id": "6264.0",
+      "start_date": "2019-11-15 14:09:28",
+      "end_date": "2019-11-15 14:25:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "6265.0",
+      "start_date": "2019-11-15 14:25:28",
+      "end_date": "2019-11-15 14:39:28",
+      "text": "\u5348\u9910",
+      "details": ""
+    },
+    {
+      "id": "5581.0",
+      "start_date": "2019-11-15 23:59:28",
+      "end_date": "2019-11-16 07:09:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6266.0",
+      "start_date": "2019-11-16 07:09:28",
+      "end_date": "2019-11-16 07:43:28",
+      "text": "\u665a\u9910",
+      "details": ""
+    },
+    {
+      "id": "6267.0",
+      "start_date": "2019-11-16 07:43:28",
+      "end_date": "2019-11-16 07:59:28",
+      "text": "\u6d17\u6fa1",
+      "details": ""
+    },
+    {
+      "id": "5586.0",
+      "start_date": "2019-11-16 23:59:28",
+      "end_date": "2019-11-17 07:09:28",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5207.0",
+      "start_date": "2019-11-17 15:34:44",
+      "end_date": "2019-11-17 15:34:44",
+      "text": "BlockEnd",
+      "details": ""
+    },
+    {
+      "id": "5588.0",
+      "start_date": "2019-11-18 00:00:00",
+      "end_date": "2019-11-18 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6142.0",
+      "start_date": "2019-11-18 13:00:00",
+      "end_date": "2019-11-18 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6143.0",
+      "start_date": "2019-11-18 16:00:00",
+      "end_date": "2019-11-18 16:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6256.0",
+      "start_date": "2019-11-18 16:55:00",
+      "end_date": "2019-11-18 16:55:00",
+      "text": "Deadline",
+      "details": "Meet with group mates and post a summary (2E Response) of what you discussed on TritonEd."
+    },
+    {
+      "id": "6237.0",
+      "start_date": "2019-11-18 17:00:00",
+      "end_date": "2019-11-18 18:20:00",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Individual conferences continue. No class."
+    },
+    {
+      "id": "6013.0",
+      "start_date": "2019-11-18 23:00:00",
+      "end_date": "2019-11-18 23:00:00",
+      "text": "Deadline",
+      "details": "HW 6: (graphs) due"
+    },
+    {
+      "id": "6170.0",
+      "start_date": "2019-11-18 23:59:00",
+      "end_date": "2019-11-18 23:59:00",
+      "text": "Deadline",
+      "details": "Scripting Project 1"
+    },
+    {
+      "id": "5593.0",
+      "start_date": "2019-11-19 00:00:00",
+      "end_date": "2019-11-19 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5969.0",
+      "start_date": "2019-11-19 15:30:00",
+      "end_date": "2019-11-19 16:50:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5982.0",
+      "start_date": "2019-11-19 19:30:00",
+      "end_date": "2019-11-19 20:20:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQuiz review"
+    },
+    {
+      "id": "5594.0",
+      "start_date": "2019-11-20 00:00:00",
+      "end_date": "2019-11-20 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6145.0",
+      "start_date": "2019-11-20 13:00:00",
+      "end_date": "2019-11-20 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6146.0",
+      "start_date": "2019-11-20 16:00:00",
+      "end_date": "2019-11-20 16:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6257.0",
+      "start_date": "2019-11-20 16:55:00",
+      "end_date": "2019-11-20 16:55:00",
+      "text": "Deadline",
+      "details": "Writing: 2F"
+    },
+    {
+      "id": "6238.0",
+      "start_date": "2019-11-20 17:00:00",
+      "end_date": "2019-11-20 18:20:00",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Introduce PPT assignment. Professional development workshop."
+    },
+    {
+      "id": "6148.0",
+      "start_date": "2019-11-20 20:00:00",
+      "end_date": "2019-11-20 20:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5598.0",
+      "start_date": "2019-11-21 00:00:00",
+      "end_date": "2019-11-21 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6001.0",
+      "start_date": "2019-11-21 15:25:00",
+      "end_date": "2019-11-21 15:25:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "Quiz"
+    },
+    {
+      "id": "5970.0",
+      "start_date": "2019-11-21 15:30:00",
+      "end_date": "2019-11-21 16:50:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6149.0",
+      "start_date": "2019-11-21 17:00:00",
+      "end_date": "2019-11-21 18:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6055.0",
+      "start_date": "2019-11-21 19:30:00",
+      "end_date": "2019-11-21 20:20:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5603.0",
+      "start_date": "2019-11-22 00:00:00",
+      "end_date": "2019-11-22 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6150.0",
+      "start_date": "2019-11-22 13:00:00",
+      "end_date": "2019-11-22 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5604.0",
+      "start_date": "2019-11-23 00:00:00",
+      "end_date": "2019-11-23 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5605.0",
+      "start_date": "2019-11-24 00:00:00",
+      "end_date": "2019-11-24 07:17:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5607.0",
+      "start_date": "2019-11-25 00:00:00",
+      "end_date": "2019-11-25 07:17:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6151.0",
+      "start_date": "2019-11-25 13:00:00",
+      "end_date": "2019-11-25 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6152.0",
+      "start_date": "2019-11-25 16:00:00",
+      "end_date": "2019-11-25 16:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6258.0",
+      "start_date": "2019-11-25 16:55:00",
+      "end_date": "2019-11-25 16:55:00",
+      "text": "Deadline",
+      "details": "Reading: Articles from group folders Writing: 2G & 3A"
+    },
+    {
+      "id": "6239.0",
+      "start_date": "2019-11-25 17:00:00",
+      "end_date": "2019-11-25 18:20:00",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Use 3A to begin PowerPoint Presentation preparations"
+    },
+    {
+      "id": "6014.0",
+      "start_date": "2019-11-25 23:00:00",
+      "end_date": "2019-11-25 23:00:00",
+      "text": "Deadline",
+      "details": "HW 7 (probability) due"
+    },
+    {
+      "id": "5614.0",
+      "start_date": "2019-11-26 00:00:00",
+      "end_date": "2019-11-26 07:17:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6002.0",
+      "start_date": "2019-11-26 15:25:00",
+      "end_date": "2019-11-26 15:25:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW8 due"
+    },
+    {
+      "id": "5971.0",
+      "start_date": "2019-11-26 15:30:00",
+      "end_date": "2019-11-26 16:50:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5983.0",
+      "start_date": "2019-11-26 19:30:00",
+      "end_date": "2019-11-26 20:20:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nHW9 overview"
+    },
+    {
+      "id": "5619.0",
+      "start_date": "2019-11-27 00:00:00",
+      "end_date": "2019-11-27 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6154.0",
+      "start_date": "2019-11-27 13:00:00",
+      "end_date": "2019-11-27 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6155.0",
+      "start_date": "2019-11-27 16:00:00",
+      "end_date": "2019-11-27 16:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6259.0",
+      "start_date": "2019-11-27 16:55:00",
+      "end_date": "2019-11-27 16:55:00",
+      "text": "Deadline",
+      "details": "Writing: 3B"
+    },
+    {
+      "id": "6240.0",
+      "start_date": "2019-11-27 17:00:00",
+      "end_date": "2019-11-27 18:20:00",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "Continue working on presentations"
+    },
+    {
+      "id": "6157.0",
+      "start_date": "2019-11-27 20:00:00",
+      "end_date": "2019-11-27 20:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5620.0",
+      "start_date": "2019-11-28 00:00:00",
+      "end_date": "2019-11-28 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5972.0",
+      "start_date": "2019-11-28 15:30:00",
+      "end_date": "2019-11-28 16:50:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6158.0",
+      "start_date": "2019-11-28 17:00:00",
+      "end_date": "2019-11-28 18:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6056.0",
+      "start_date": "2019-11-28 19:30:00",
+      "end_date": "2019-11-28 20:20:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5621.0",
+      "start_date": "2019-11-29 00:00:00",
+      "end_date": "2019-11-29 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6159.0",
+      "start_date": "2019-11-29 13:00:00",
+      "end_date": "2019-11-29 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "5622.0",
+      "start_date": "2019-11-30 00:00:00",
+      "end_date": "2019-11-30 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5735.0",
+      "start_date": "2019-11-30 23:00:00",
+      "end_date": "2019-11-30 23:00:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "Verizon"
+    },
+    {
+      "id": "5626.0",
+      "start_date": "2019-12-01 00:00:00",
+      "end_date": "2019-12-01 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5731.0",
+      "start_date": "2019-12-01 23:00:00",
+      "end_date": "2019-12-01 23:00:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "\u4ed8\u623f\u79df"
+    },
+    {
+      "id": "5627.0",
+      "start_date": "2019-12-02 00:00:00",
+      "end_date": "2019-12-02 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6160.0",
+      "start_date": "2019-12-02 13:00:00",
+      "end_date": "2019-12-02 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6161.0",
+      "start_date": "2019-12-02 16:00:00",
+      "end_date": "2019-12-02 16:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6241.0",
+      "start_date": "2019-12-02 17:00:00",
+      "end_date": "2019-12-02 18:20:00",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "PowerPoint Presentations"
+    },
+    {
+      "id": "6171.0",
+      "start_date": "2019-12-02 23:59:00",
+      "end_date": "2019-12-02 23:59:00",
+      "text": "Deadline",
+      "details": "Scripting Project 2"
+    },
+    {
+      "id": "5628.0",
+      "start_date": "2019-12-03 00:00:00",
+      "end_date": "2019-12-03 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5973.0",
+      "start_date": "2019-12-03 15:30:00",
+      "end_date": "2019-12-03 16:50:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture Final review"
+    },
+    {
+      "id": "5984.0",
+      "start_date": "2019-12-03 19:30:00",
+      "end_date": "2019-12-03 20:20:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQuiz review"
+    },
+    {
+      "id": "5629.0",
+      "start_date": "2019-12-04 00:00:00",
+      "end_date": "2019-12-04 07:17:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6163.0",
+      "start_date": "2019-12-04 13:00:00",
+      "end_date": "2019-12-04 13:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6164.0",
+      "start_date": "2019-12-04 16:00:00",
+      "end_date": "2019-12-04 16:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6261.0",
+      "start_date": "2019-12-04 16:55:00",
+      "end_date": "2019-12-04 16:55:00",
+      "text": "Deadline",
+      "details": ""
+    },
+    {
+      "id": "6242.0",
+      "start_date": "2019-12-04 17:00:00",
+      "end_date": "2019-12-04 18:20:00",
+      "text": "WCWP 100\u5c08\u6848",
+      "details": "PowerPoint Presentations"
+    },
+    {
+      "id": "6166.0",
+      "start_date": "2019-12-04 20:00:00",
+      "end_date": "2019-12-04 20:50:00",
+      "text": "CSE 21\u5c08\u6848",
+      "details": "Discussion"
+    },
+    {
+      "id": "5635.0",
+      "start_date": "2019-12-05 00:00:00",
+      "end_date": "2019-12-05 07:17:00",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6003.0",
+      "start_date": "2019-12-05 15:25:00",
+      "end_date": "2019-12-05 15:25:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "Quiz"
+    },
+    {
+      "id": "5974.0",
+      "start_date": "2019-12-05 15:30:00",
+      "end_date": "2019-12-05 16:50:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Lecture"
+    },
+    {
+      "id": "6167.0",
+      "start_date": "2019-12-05 17:00:00",
+      "end_date": "2019-12-05 18:50:00",
+      "text": "CSE 15L\u5c08\u6848",
+      "details": "Lab"
+    },
+    {
+      "id": "6057.0",
+      "start_date": "2019-12-05 19:30:00",
+      "end_date": "2019-12-05 20:20:00",
+      "text": "CSE 12\u5c08\u6848",
+      "details": "Discussion\nQ&A"
+    },
+    {
+      "id": "5638.0",
+      "start_date": "2019-12-06 00:00:00",
+      "end_date": "2019-12-06 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6006.0",
+      "start_date": "2019-12-06 23:00:00",
+      "end_date": "2019-12-06 23:00:00",
+      "text": "t.\u7463\u4e8b",
+      "details": "HW9 due"
+    },
+    {
+      "id": "5640.0",
+      "start_date": "2019-12-07 00:00:00",
+      "end_date": "2019-12-07 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5641.0",
+      "start_date": "2019-12-08 00:00:00",
+      "end_date": "2019-12-08 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5642.0",
+      "start_date": "2019-12-09 00:00:00",
+      "end_date": "2019-12-09 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5644.0",
+      "start_date": "2019-12-10 00:00:00",
+      "end_date": "2019-12-10 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6260.0",
+      "start_date": "2019-12-10 13:00:00",
+      "end_date": "2019-12-10 13:00:00",
+      "text": "Deadline",
+      "details": "Writing: 3D and 3E due at 2 p.m. (submit on TritonEd, and paper copies to the Warren Writing office)"
+    },
+    {
+      "id": "5645.0",
+      "start_date": "2019-12-11 00:00:00",
+      "end_date": "2019-12-11 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5653.0",
+      "start_date": "2019-12-12 00:00:00",
+      "end_date": "2019-12-12 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5656.0",
+      "start_date": "2019-12-13 00:00:00",
+      "end_date": "2019-12-13 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5657.0",
+      "start_date": "2019-12-14 00:00:00",
+      "end_date": "2019-12-14 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5658.0",
+      "start_date": "2019-12-15 00:00:00",
+      "end_date": "2019-12-15 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5659.0",
+      "start_date": "2019-12-16 00:00:00",
+      "end_date": "2019-12-16 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5660.0",
+      "start_date": "2019-12-17 00:00:00",
+      "end_date": "2019-12-17 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5662.0",
+      "start_date": "2019-12-18 00:00:00",
+      "end_date": "2019-12-18 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5663.0",
+      "start_date": "2019-12-19 00:00:00",
+      "end_date": "2019-12-19 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5664.0",
+      "start_date": "2019-12-20 00:00:00",
+      "end_date": "2019-12-20 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5667.0",
+      "start_date": "2019-12-21 00:00:00",
+      "end_date": "2019-12-21 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5672.0",
+      "start_date": "2019-12-22 00:00:00",
+      "end_date": "2019-12-22 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5680.0",
+      "start_date": "2019-12-23 00:00:00",
+      "end_date": "2019-12-23 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5681.0",
+      "start_date": "2019-12-24 00:00:00",
+      "end_date": "2019-12-24 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "5684.0",
+      "start_date": "2019-12-25 00:00:00",
+      "end_date": "2019-12-25 07:10:02",
+      "text": "\u7761\u7720",
+      "details": ""
+    },
+    {
+      "id": "6626.0",
+      "start_date": "2019-12-25 07:10:02",
+      "end_date": "2019-12-25 07:10:02",
+      "text": "_Example",
+      "details": ""
+    },
+    {
+      "id": "4926.0",
+      "start_date": "2019-12-25 07:10:02",
+      "end_date": "2019-12-25 07:10:02",
+      "text": "_Example",
+      "details": "END"
+    },
+    {
+      "id": "5333.0",
+      "start_date": "2020-04-14 23:59:30",
+      "end_date": "2020-04-15 01:29:30",
+      "text": "t.\u7463\u4e8b",
+      "details": "\u7533\u8acb\u65fa\u5b8f\u734e\u5b78\u91d1"
+    },
+    {
+      "id": "6277.0",
+      "start_date": "2021-12-11 00:00:01",
+      "end_date": "2021-12-11 00:00:01",
+      "text": "t.\u7463\u4e8b",
+      "details": "End Of UCSD\u5c08\u6848"
+    }
+  ]
+}

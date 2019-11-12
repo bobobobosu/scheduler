@@ -1,0 +1,104 @@
+<!doctype html>
+<html>
+	<head>
+		<title>TC Scheduler</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://cdn.dhtmlx.com/scheduler/edge/dhtmlxscheduler.js" charset="utf-8"></script>
+		<script src="../../codebase/ext/dhtmlxscheduler_agenda_view.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+		<script src="../../codebase/ext/dhtmlxscheduler_active_links.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+		<script src="../../codebase/ext/dhtmlxscheduler_year_view.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+		<script src="../../codebase/ext/dhtmlxscheduler_quick_info.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+		<script src="../../codebase/ext/dhtmlxScheduler_tooltip.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+		<script src="../../codebase/ext/dhtmlxscheduler_limit.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+		<link rel="stylesheet" href="https://cdn.dhtmlx.com/scheduler/edge/dhtmlxscheduler_material.css" type="text/css" charset="utf-8">
+		<style>
+			html, body{
+				margin:0px;
+				padding:0px;
+				height:100%;
+				overflow:hidden;
+			}
+		</style>
+	</head>
+	<body>
+		<div id="scheduler_here" class="dhx_cal_container" style='width:100%; height:100%;'>
+			<div class="dhx_cal_navline">
+				<div class="dhx_cal_prev_button">&nbsp;</div>
+				<div class="dhx_cal_next_button">&nbsp;</div>
+				<div class="dhx_cal_today_button"></div>
+				<div class="dhx_cal_date"></div>
+				<div class="dhx_cal_tab" name="day_tab" style="right:204px;"></div>
+				<div class="dhx_cal_tab" name="week_tab" style="right:140px;"></div>
+				<div class="dhx_cal_tab" name="month_tab" style="right:76px;"></div>
+				<div class="dhx_cal_tab" name="year_tab" style="right:268px;"></div>
+
+				<div class="dhx_cal_tab" name="agenda_tab" style="right:280px;"></div>
+			</div>
+			<div class="dhx_cal_header"></div>
+			<div class="dhx_cal_data"></div>
+		</div>
+		<script>
+			scheduler.config.mark_now = true;
+
+			scheduler.config.cascade_event_display = true; // enable rendering, default value = false
+			scheduler.config.cascade_event_count = 4; // how many events events will be displayed in cascade style (max), default value = 4
+			scheduler.config.cascade_event_margin = 30; // margin between events, default value = 30
+
+			scheduler.config.agenda_start = new Date().setHours(0,0,0,0);
+			scheduler.config.agenda_end = new Date().setHours(24,0,0,0);
+
+			scheduler.config.first_hour = 6;
+			scheduler.config.last_hour = 5;
+			scheduler.config.hour_size_px = 88;
+			var format = scheduler.date.date_to_str("%H:%i");
+			var step = 15;
+			scheduler.templates.hour_scale = function(date){
+				var html="";
+				for (var i=0; i<60/step; i++){
+					html+="<div style='height:22px;line-height:22px;'>"+format(date)+"</div>";
+					date = scheduler.date.add(date,step,"minute");
+				}
+				return html;
+			}
+			scheduler.init("scheduler_here", new Date(), "week")
+			scheduler.setLoadMode("day");
+			// load data from backend
+			scheduler.load("/events", "json");
+			
+
+			scheduler.templates.quick_info_content = function(start, end, ev){ 
+				// return ev.location ;
+				return ev.details || ev.text ;
+			};
+			scheduler.templates.quick_info_date = function(start, end, ev){
+				if (scheduler.isOneDayEvent(ev)){
+					return scheduler.templates.day_date(start, end, ev) + " " +
+						scheduler.templates.event_header(start, end, ev);
+				}else{
+					return scheduler.templates.week_date(start, end, ev);
+				}
+			};
+			scheduler.templates.quick_info_title = function(start, end, ev){ 
+				return ev.text.substr(0,50); 
+			};
+
+			scheduler.templates.tooltip_text = function(start,end,ev){
+				return "<b>Event:</b> "+ev.text+"<br/><b>Start date:</b> " + 
+				scheduler.templates.tooltip_date_format(start)+ 
+				"<br/><b>End date:</b> "+scheduler.templates.tooltip_date_format(end)+
+				"<br/><b>Duration:</b> "+(new Date(ev['end_date']).getTime() - 
+								new Date(ev['start_date']).getTime())/(1000*60)+
+				"<br/><b>Location:</b> "+ev.location;
+			};
+
+			
+			scheduler.config.responsive_lightbox = true; // responsive lightbox
+			// connect backend to scheduler
+			var dp = new dataProcessor("/events");
+			dp.init(scheduler);
+			// set data exchange mode
+			dp.setTransactionMode("REST");
+		</script>
+	</body>
+</html>

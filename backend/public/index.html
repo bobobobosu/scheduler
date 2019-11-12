@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<title>TC Scheduler</title>
+
+	<script src="../../codebase/dhtmlxscheduler.js?v=5.3.3" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_multiselect.js?v=5.3.3"></script>	
+	<script src="../../codebase/ext/dhtmlxscheduler_editors.js?v=5.3.3"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_all_timed.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_recurring.js?v=5.3.3" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_agenda_view.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_active_links.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_year_view.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_quick_info.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxScheduler_tooltip.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+	<script src="../../codebase/ext/dhtmlxscheduler_limit.js?v=5.3.3" type="text/javascript" charset="utf-8"></script>
+	<link rel="stylesheet" href="../../codebase/dhtmlxscheduler_material.css?111" type="text/css" charset="utf-8">
+	<link rel="stylesheet" href="../common/controls_styles.css?v=5.3.3">
+	
+
+	<!-- Quick info extension -->
+	<script src="../../codebase/ext/dhtmlxscheduler_quick_info.js?v=5.3.3" charset="utf-8"></script>
+</head>
+
+<style type="text/css" >
+	html, body{
+		margin:0px;
+		padding:0px;
+		height:100%;
+		overflow:hidden;
+	}
+
+	.add_event_button{
+		position: absolute;
+		width: 55px;
+		height: 55px;
+		background: #ff5722;
+		border-radius: 50px;
+		bottom: 40px;
+		right: 55px;
+		box-shadow: 0 2px 5px 0 rgba(0,0,0,0.3);
+		z-index: 5;
+		cursor:pointer;
+	}
+	.add_event_button:after{
+		background: #000;
+		border-radius: 2px;
+		color: #FFF;
+		content: attr(data-tooltip);
+		margin: 16px 0 0 -137px;
+		opacity: 0;
+		padding: 4px 9px;
+		position: absolute;
+		visibility: visible;
+		font-family: "Roboto";
+		font-size: 14px;
+		visibility: hidden;
+		transition: all .5s ease-in-out;
+	}
+	.add_event_button:hover{
+		background: #ff774c;
+	}
+	.add_event_button:hover:after{
+		opacity: 0.55;
+		visibility: visible;
+	}
+	.add_event_button span:before{
+		content:"";
+		background: #fff;
+		height: 16px;
+		width: 2px;
+		position: absolute;
+		left: 26px;
+		top: 20px;
+	}
+	.add_event_button span:after{
+		content:"";
+		height: 2px;
+		width: 16px;
+		background: #fff;
+		position: absolute;
+		left: 19px;
+		top: 27px;
+	}
+
+	@media only screen and (max-width: 1000px){
+		.add_event_button{
+			bottom: 5vw;
+			right: 5vw;
+		}
+	}
+
+</style>
+<script>
+	window.addEventListener("DOMContentLoaded", function(){
+
+		// different configs for different screen sizes
+		var compactView = {
+			xy: {
+				nav_height: 80
+			},
+			config: {
+				header: {
+					rows: [
+						{ 
+							cols: [
+								"prev",
+								"date",
+								"next",
+							]
+						},
+						{ 
+							cols: [
+								"day",
+								"week",
+								"month",
+								"year",
+								"agenda",
+								"spacer",
+								"today"
+							]
+						}
+					]
+				}
+			},
+			templates: {
+				month_scale_date: scheduler.date.date_to_str("%D"),
+				week_scale_date: scheduler.date.date_to_str("%D, %j"),
+				event_bar_date: function(start,end,ev) {
+					return "";
+				}
+				
+			}
+		};
+		var fullView = {
+			xy: {
+				nav_height: 80
+			},
+			config: {
+				header: [
+					"day",
+					"week",
+					"month",
+					"year",
+					"agenda",
+					"date",
+					"prev",
+					"today",
+					"next"
+				]
+			},
+			templates: {
+				month_scale_date: scheduler.date.date_to_str("%l"),
+				week_scale_date: scheduler.date.date_to_str("%l, %F %j"),
+				event_bar_date: function(start,end,ev) {
+					return "• <b>"+scheduler.templates.event_date(start)+"</b> ";
+				}
+			}
+		};
+
+		function resetConfig(){
+			var settings;
+			if(window.innerWidth < 1000){
+				settings = compactView;
+			}else{
+				settings = fullView;
+			
+			}
+			scheduler.utils.mixin(scheduler.config, settings.config, true);
+			scheduler.utils.mixin(scheduler.templates, settings.templates, true);
+			scheduler.utils.mixin(scheduler.xy, settings.xy, true);
+			return true;
+		}
+
+		scheduler.config.responsive_lightbox = false;
+		resetConfig();
+		scheduler.attachEvent("onBeforeViewChange", resetConfig);
+		scheduler.attachEvent("onSchedulerResize", resetConfig);
+
+
+		scheduler.config.lightbox.sections=[
+			{ name:"Task", height:35, map_to:"task", type:"textarea" , focus:true },
+			{ name:"Description", height:35, map_to:"description", type:"textarea" , focus:true },
+			{ name:"Details", height:200, map_to:"details", type:"textarea" , focus:true},
+			{ name:"time", height:40, type:"time", map_to:"auto" },
+		];
+		document.querySelector(".add_event_button").addEventListener("click", function(){
+			scheduler.addEventNow();
+		});
+		
+		//Mine
+		scheduler.config.mark_now = true;
+
+		scheduler.config.all_timed = true;
+		scheduler.config.multi_day = true;
+		scheduler.config.cascade_event_display = true; // enable rendering, default value = false
+		scheduler.config.cascade_event_count = 4; // how many events events will be displayed in cascade style (max), default value = 4
+		scheduler.config.cascade_event_margin = 30; // margin between events, default value = 30
+
+		scheduler.config.agenda_start = new Date().setHours(0,0,0,0);
+		scheduler.config.agenda_end = new Date().setHours(24,0,0,0);
+
+		scheduler.config.hour_size_px = 88;
+		var format = scheduler.date.date_to_str("%H:%i");
+		var step = 15;
+		scheduler.templates.hour_scale = function(date){
+			var html="";
+			for (var i=0; i<60/step; i++){
+				html+="<div style='height:22px;line-height:22px;'>"+format(date)+"</div>";
+				date = scheduler.date.add(date,step,"minute");
+			}
+			return html;
+		}
+		
+		scheduler.init("scheduler_here", new Date(), "week")
+		scheduler.setLoadMode("day");
+		// load data from backend
+		scheduler.load("/events", "json");
+
+
+		scheduler.templates.quick_info_content = function(start, end, ev){ 
+			// return ev.location ;
+			return ev.quickinfo.replace(/(?:\r\n|\r|\n)/g, '<br>');  ;
+		};
+		scheduler.templates.quick_info_date = function(start, end, ev){
+			if (scheduler.isOneDayEvent(ev)){
+				return scheduler.templates.day_date(start, end, ev) + " " +
+					scheduler.templates.event_header(start, end, ev);
+			}else{
+				return scheduler.templates.week_date(start, end, ev);
+			}
+		};
+		scheduler.templates.quick_info_title = function(start, end, ev){ 
+			return ev.text.substr(0,50); 
+		};
+
+		scheduler.templates.tooltip_text = function(start,end,ev){
+			return "<b>Event:</b> "+ev.text+"<br/><b>Start date:</b> " + 
+			scheduler.templates.tooltip_date_format(start)+ 
+			"<br/><b>End date:</b> "+scheduler.templates.tooltip_date_format(end)+
+			"<br/><b>Duration:</b> "+(new Date(ev['end_date']).getTime() - 
+							new Date(ev['start_date']).getTime())/(1000*60)+
+			"<br/><b>Location:</b> "+ev.location;
+		};
+
+		scheduler.init("scheduler_here", new Date(), "week")
+		scheduler.setLoadMode("day");
+		// load data from backend
+		scheduler.load("/events", "json");
+		// connect backend to scheduler
+		var dp = new dataProcessor("/events");
+		dp.init(scheduler);
+		// set data exchange mode
+		dp.setTransactionMode("REST");
+
+
+	});
+</script>
+
+<body>
+	<div id="scheduler_here" style='width:100%; height:100%;'></div>
+	<div class="add_event_button" data-tooltip="Create new event"><span></span></div>
+</body>
