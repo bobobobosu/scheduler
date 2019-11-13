@@ -63,8 +63,30 @@ app.get('/bpmn/file/:id', function(req, res) {
 	res.send(fs.readFileSync(path,'utf8'));
 });
 
+// DMN
+app.post('/dmnsave/:id', (req, res) => {
+	var path = Constants['Paths']['Folders']['DMN'] + req.params.id+'.dmn';
+	fs.writeFile(path, req.body['data'], function (err) {
+		if (err) throw err;
+		console.log('DMN saved');
+	});
+	res.json({ ok: true });
+  });
+app.get('/dmn/:id', function(req, res) {
+	var path = Constants['Paths']['Folders']['DMN'] + req.params.id+'.dmn';
+	if (!fs.existsSync(path)) {
+		fs.copyFile(__dirname+'/dmnjs/starter/diagram.dmn', path, (err) => {
+			if (err) throw err;
+		});
+	}
+	res.send(fs.readFileSync(__dirname + "/dmnjs/starter/modeler.html",'utf8').replace(/TIMELINEID/g, req.params.id));
+});
+app.get('/dmn/file/:id', function(req, res) {
+	var path = Constants['Paths']['Folders']['DMN'] + req.params.id+'.dmn';
+	res.send(fs.readFileSync(path,'utf8'));
+});
 
-app.use(express.static(__dirname + "/bpmnjs/starter"));
+
 
 app.use("/codebase", express.static(path.join(__dirname, "..", "codebase")));
 app.use("/samples", express.static(path.join(__dirname, "..", "samples")));

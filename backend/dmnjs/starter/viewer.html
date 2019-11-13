@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello World</title>
+
+    <!-- required viewer styles -->
+    <link rel="stylesheet" href="https://unpkg.com/dmn-js@7.1.0/dist/assets/dmn-js-drd.css">
+    <link rel="stylesheet" href="https://unpkg.com/dmn-js@7.1.0/dist/assets/dmn-js-decision-table.css">
+    <link rel="stylesheet" href="https://unpkg.com/dmn-js@7.1.0/dist/assets/dmn-js-literal-expression.css">
+    <link rel="stylesheet" href="https://unpkg.com/dmn-js@7.1.0/dist/assets/dmn-font/css/dmn.css">
+
+    <!-- viewer distro -->
+    <script src="https://unpkg.com/dmn-js@7.1.0/dist/dmn-viewer.development.js"></script>
+
+    <!-- needed for this example only -->
+    <script src="https://unpkg.com/jquery@3.3.1/dist/jquery.js"></script>
+
+    <!-- example styles -->
+    <style>
+      html, body, #canvas {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="canvas"></div>
+
+    <script>
+
+      var diagramUrl = 'https://cdn.staticaly.com/gh/bpmn-io/dmn-js-examples/4843ea28/starter/diagram.dmn';
+
+      // viewer instance
+      var dmnViewer = new DmnJS({
+        container: '#canvas'
+      });
+
+
+      /**
+       * Open diagram in our viewer instance.
+       *
+       * @param {String} dmnXML diagram to display
+       */
+      function openDiagram(dmnXML) {
+
+        // import diagram
+        dmnViewer.importXML(dmnXML, function(err) {
+
+          if (err) {
+            return console.error('could not import DMN 1.1 diagram', err);
+          }
+
+          // fetch currently active view
+          var activeView = dmnModeler.getActiveView();
+
+          // apply initial logic in DRD view
+          if (activeView.type === 'drd') {
+            var activeEditor = dmnModeler.getActiveViewer();
+          
+            // access active editor components
+            var canvas = activeEditor.get('canvas');
+            
+            // zoom to fit full viewport
+            canvas.zoom('fit-viewport');
+          }
+        });
+      }
+
+
+      // load external diagram file via AJAX and open it
+      $.get(diagramUrl, openDiagram, 'text');
+    </script>
+  </body>
+</html>

@@ -179,6 +179,15 @@
 		scheduler.attachEvent("onBeforeViewChange", resetConfig);
 		scheduler.attachEvent("onSchedulerResize", resetConfig);
 
+		scheduler.config.icons_select = [
+			"icon_details",
+			"icon_delete",
+			"icon_BPMN"
+		];
+		scheduler.locale.labels.icon_BPMN = "BPMN";
+		scheduler._click.buttons.BPMN = function(id){
+			window.open("/bpmn/"+scheduler.getEvent(id).task,"_self")
+		};
 
 		scheduler.config.lightbox.sections=[
 			{ name:"Task", height:35, map_to:"task", type:"textarea" , focus:true },

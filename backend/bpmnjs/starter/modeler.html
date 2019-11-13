@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Modeler</title>
+    <title>TIMELINEID</title>
 
     <!-- required modeler styles -->
     <link rel="stylesheet" href="https://unpkg.com/bpmn-js@5.1.2/dist/assets/diagram-js.css">
@@ -47,9 +47,7 @@
   </head>
   <body>
     <div id="canvas"></div>
-
-    <button id="save-button">save</button>
-
+    <button id="save-button">Step Into</button>
     <script>
 
       // var diagramUrl = 'https://cdn.staticaly.com/gh/bpmn-io/bpmn-js-examples/dfceecba/starter/diagram.bpmn';
@@ -139,14 +137,31 @@
         'element.mouseup'
       ];
 
-      events.forEach(function(event) {
-        eventBus.on(event, function(e) {
-          exportDiagram();
-        });
+      // events.forEach(function(event) {
+      //   eventBus.on(event, function(e) {
+      //     if(event == 'element.dblclick'){
+      //       // window.open("http://localhost:9200/dmn/"+e.element.businessObject.name,"_self")
+      //     }
+      //   });
+      // });
+
+      bpmnModeler.on('elements.changed', function(e) {
+        console.log(e.elements[0]);
+        exportDiagram();
       });
 
+      function detail() {
+        var element=bpmnModeler.get('selection').get()[0].businessObject;
+        if( element.$type == "bpmn:BusinessRuleTask"){
+          window.open( "/dmn/"+element.name,"_self")
+        } else{
+          window.open("/bpmn/"+element.name,"_self")
+        }
+        
+      }
+
       // wire save button
-      $('#save-button').click(exportDiagram);
+      $('#save-button').click(detail);
     </script>
     <!--
       Thanks for trying out our BPMN toolkit!
