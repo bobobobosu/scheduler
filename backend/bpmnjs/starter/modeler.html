@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>TIMELINEID</title>
+    <title>TASKNAME</title>
 
     <!-- required modeler styles -->
     <link rel="stylesheet" href="https://unpkg.com/bpmn-js@5.1.2/dist/assets/diagram-js.css">
@@ -22,6 +22,11 @@
         margin: 0;
       }
 
+      .highlight-overlay {
+        background-color: green; /* color elements as green */
+        opacity: 0.2;
+        pointer-events: none; /* no pointer events, allows clicking through onto the element */
+      }
       .diagram-note {
         background-color: rgba(66, 180, 21, 0.7);
         color: White;
@@ -49,14 +54,6 @@
     <div id="canvas"></div>
     <button id="save-button">Step Into</button>
     <script>
-
-      // var diagramUrl = 'https://cdn.staticaly.com/gh/bpmn-io/bpmn-js-examples/dfceecba/starter/diagram.bpmn';
-      // var diagramUrl;
-      // $.get('/bpmnget', function(result){
-      //   console.log(result['data']);
-      //   diagramUrl = result['data'];
-      // });
-
       // modeler instance
       var bpmnModeler = new BpmnJS({
         container: '#canvas',
@@ -76,7 +73,7 @@
             return console.error('could not save BPMN 2.0 diagram', err);
           }
 
-          $.post('/bpmnsave/TIMELINEID',{data: xml, contentType: "text/xml",dataType: "text"});
+          $.post('/bpmnsave/TASKNAME',{data: xml, contentType: "text/xml",dataType: "text"});
           
           // console.log('DIAGRAM', xml);
         });
@@ -103,18 +100,19 @@
 
           // zoom to fit full viewport
           canvas.zoom('fit-viewport');
+          setHLCurrent();
 
-          // attach an overlay to a node
-          overlays.add('SCAN_OK', 'note', {
-            position: {
-              bottom: 0,
-              right: 0
-            },
-            html: '<div class="diagram-note">Mixed up the labels?</div>'
-          });
+          // // attach an overlay to a node
+          // overlays.add('SCAN_OK', 'note', {
+          //   position: {
+          //     bottom: 0,
+          //     right: 0
+          //   },
+          //   html: '<div class="diagram-note">Mixed up the labels?</div>'
+          // });
 
-          // add marker
-          canvas.addMarker('SCAN_OK', 'needs-discussion');
+          // // add marker
+          // canvas.addMarker('SCAN_OK', 'needs-discussion');
         });
 
         
@@ -122,7 +120,7 @@
 
 
       // load external diagram file via AJAX and open it
-      $.get('/bpmn/file/TIMELINEID', openDiagram, 'text');
+      $.get('/bpmnfile/TASKNAME', openDiagram, 'text');
 
 
       var eventBus = bpmnModeler.get('eventBus');
@@ -155,11 +153,39 @@
         if( element.$type == "bpmn:BusinessRuleTask"){
           window.open( "/dmn/"+element.name,"_self")
         } else{
-          window.open("/bpmn/"+element.name,"_self")
+          window.open("/bpmn/"+element.name+"/"+"CURRMILESTONE","_self")
         }
         
       }
 
+      function setHLCurrent(){
+          // hightlight current
+          let elementRegistry = bpmnModeler.get('elementRegistry');
+          var overlays = bpmnModeler.get('overlays');
+          let elements = elementRegistry.filter(function (element) {
+            return element.constructor.name == 'Shape' && element.businessObject.name == 'CURRMILESTONE';
+          });
+          console.log(elements);
+          var modeling = bpmnModeler.get('modeling');
+          elements.forEach(function(element) {
+            var $overlayHtml =
+              $('<div class="highlight-overlay">')
+                .css({
+                  width: element.width,
+                  height: element.height
+                });
+
+            overlays.add(element.id, {
+              position: {
+                top: 0,
+                left: 0
+              },
+              html: $overlayHtml
+            });
+          });
+
+
+      }
       // wire save button
       $('#save-button').click(detail);
     </script>

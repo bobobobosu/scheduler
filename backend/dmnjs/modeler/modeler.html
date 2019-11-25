@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8" />
-    <title>Hello World</title>
+    <title>TASKNAME</title>
 
     <!-- required modeler styles -->
     <link rel="stylesheet" href="https://unpkg.com/dmn-js@7.1.0/dist/assets/diagram-js.css">
@@ -20,89 +20,33 @@
     <script src="https://unpkg.com/jquery@3.3.1/dist/jquery.js"></script>
 
     <!-- example styles -->
-    <link rel="stylesheet" href="style.css">
-
     <style>
+      html, body, #canvas {
+        height: 100%;
+        padding: 0;
+        margin: 0;
+      }
+
       #save-button {
-        position: absolute;
-        bottom: 10px;
-        left: 10px;
-        background: white;
-        padding: 5px;
-        border: solid 1px #CCC;
-        border-radius: 2px;
-        padding: 8px;
-        font-family: 'Arial', sans-serif;
-        font-weight: bold;
-        cursor: default;
-        font-size: 14px;
-        color: #444;
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
       }
     </style>
   </head>
   <body>
-    <div class="test-container">
-      <div class="editor-parent">
-        <div class="editor-container"></div>
-        <div class="editor-tabs"></div>
-      </div>
-    </div>
-
-    <button id="save-button">print to console</button>
-
+    <div id="canvas"></div>
+    <button id="save-button">Save</button>
     <script>
 
-      var diagramUrl = 'https://cdn.staticaly.com/gh/bpmn-io/dmn-js-examples/4843ea28/starter/diagram.dmn';
-
-      var CLASS_NAMES = {
-        drd: 'dmn-icon-lasso-tool',
-        decisionTable: 'dmn-icon-decision-table',
-        literalExpression: 'dmn-icon-literal-expression'
-      };
-
-      var $container = $('.editor-container');
-      var $tabs = $('.editor-tabs');
-
-      var diagramUrl = 'https://cdn.staticaly.com/gh/bpmn-io/dmn-js-examples/4843ea28/starter/diagram.dmn';
+      // var diagramUrl = 'https://cdn.staticaly.com/gh/bpmn-io/dmn-js-examples/4843ea28/starter/diagram.dmn';
 
       // modeler instance
       var dmnModeler = new DmnJS({
-        container: $container,
-        height: 500,
-        width: '100%',
+        container: '#canvas',
         keyboard: {
           bindTo: window
         }
-      });
-
-      $tabs.delegate('.tab', 'click', function(e) {
-        var viewIdx = parseInt(this.getAttribute('data-id'), 10);
-
-        var view = dmnModeler.getViews()[viewIdx];
-
-        dmnModeler.open(view);
-      });
-
-      dmnModeler.on('views.changed', function(event) {
-
-        var { views, activeView } = event;
-
-        // clear tabs
-        $tabs.empty();
-
-        views.forEach(function(v, idx) {
-
-          const className = CLASS_NAMES[v.type];
-
-          var tab = $(`
-            <div class="tab ${ v === activeView ? 'active' : ''}" data-id="${idx}">
-              <span class="${ className }"></span>
-              ${v.element.name || v.element.id}
-            </div>
-          `);
-
-          $tabs.append(tab);
-        });
       });
 
       /**
@@ -116,7 +60,7 @@
             return console.error('could not save DMN 1.1 diagram', err);
           }
 
-          alert('Diagram exported. Check the developer tools!');
+          $.post('/dmnsave/TASKNAME',{data: xml, contentType: "text/xml",dataType: "text"});
 
           console.log('DIAGRAM', xml);
         });
@@ -135,20 +79,37 @@
           if (err) {
             return console.error('could not import DMN 1.1 diagram', err);
           }
+          
+          // fetch currently active view
+          var activeView = dmnModeler.getActiveView();
 
-          var activeEditor = dmnModeler.getActiveViewer();
+          // apply initial logic in DRD view
+          if (activeView.type === 'drd') {
+            var activeEditor = dmnModeler.getActiveViewer();
 
-          // access active editor components
-          var canvas = activeEditor.get('canvas');
+            // access active editor components
+            var canvas = activeEditor.get('canvas');
 
-          // zoom to fit full viewport
-          canvas.zoom('fit-viewport');
+            // zoom to fit full viewport
+            canvas.zoom('fit-viewport');
+          }
         });
       }
 
 
-      // load external diagram file via AJAX and open it
-      $.get(diagramUrl, openDiagram, 'text');
+        // load external diagram file via AJAX and open it
+      $.get('/dmnfile/TASKNAME', openDiagram, 'text');
+
+
+      dmnModeler.onmousedown = function(){
+          console.log(e.elements[0]);
+          exportDiagram();
+      };
+      // dmnModeler.on('elements.changed', function(e) {
+      //   console.log(e.elements[0]);
+      //   exportDiagram();
+      // });
+
 
       // wire save button
       $('#save-button').click(exportDiagram);

@@ -40,6 +40,14 @@ app.use(function(req, res, next) {
 // return static pages from "./public" directory
 app.use(express.static(__dirname + "/public"));
 
+// General 
+app.post('/msg/', (req, res) => {
+	console.log(JSON.stringify(req.body));
+	console.log("["+req.body['origin']+"] "+req.body['title']);
+	console.log("=> "+req.body['body']);
+	res.json({ ok: true });
+  });
+
 // BPMN
 app.post('/bpmnsave/:id', (req, res) => {
 	var path = Constants['Paths']['Folders']['BPMN'] + req.params.id+'.bpmn';
@@ -49,16 +57,19 @@ app.post('/bpmnsave/:id', (req, res) => {
 	});
 	res.json({ ok: true });
   });
-app.get('/bpmn/:id', function(req, res) {
+app.get('/bpmn/:id/:milestone?', function(req, res) {
 	var path = Constants['Paths']['Folders']['BPMN'] + req.params.id+'.bpmn';
 	if (!fs.existsSync(path)) {
 		fs.copyFile(__dirname+'/bpmnjs/starter/diagram.bpmn', path, (err) => {
 			if (err) throw err;
 		});
 	}
-	res.send(fs.readFileSync(__dirname + "/bpmnjs/starter/modeler.html",'utf8').replace(/TIMELINEID/g, req.params.id));
+	var htmlStr = fs.readFileSync(__dirname + "/bpmnjs/starter/modeler.html",'utf8');
+	htmlStr = htmlStr.replace(/TASKNAME/g, req.params.id);
+	htmlStr = htmlStr.replace(/CURRMILESTONE/g, (req.params.milestone)?(req.params.milestone):('xxxxx'));
+	res.send(htmlStr);
 });
-app.get('/bpmn/file/:id', function(req, res) {
+app.get('/bpmnfile/:id', function(req, res) {
 	var path = Constants['Paths']['Folders']['BPMN'] + req.params.id+'.bpmn';
 	res.send(fs.readFileSync(path,'utf8'));
 });
@@ -79,9 +90,9 @@ app.get('/dmn/:id', function(req, res) {
 			if (err) throw err;
 		});
 	}
-	res.send(fs.readFileSync(__dirname + "/dmnjs/starter/modeler.html",'utf8').replace(/TIMELINEID/g, req.params.id));
+	res.send(fs.readFileSync(__dirname + "/dmnjs/starter/modeler.html",'utf8').replace(/TASKNAME/g, req.params.id));
 });
-app.get('/dmn/file/:id', function(req, res) {
+app.get('/dmnfile/:id', function(req, res) {
 	var path = Constants['Paths']['Folders']['DMN'] + req.params.id+'.dmn';
 	res.send(fs.readFileSync(path,'utf8'));
 });
