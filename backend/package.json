@@ -9,7 +9,7 @@
   "dependencies": {
     "body-parser": "^1.19.0",
     "date-format-lite": "^17.7.0",
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "helmet": "^3.18.0",
     "morgan": "^1.9.1",
     "xss-filters": "^1.2.7"
